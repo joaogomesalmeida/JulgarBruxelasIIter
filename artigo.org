@@ -1,8 +1,11 @@
-#+TITLE: Âmbitos de aplicação, definições e relações com outros atos do Regulamento Bruxelas II /ter/
+#+TITLE: Âmbito de aplicação, definições e relações com outros atos do Regulamento Bruxelas II /ter/
 #+AUTHOR: João Gomes de Almeida
 
 * Introdução
-* Âmbitos de aplicação
+
+
+
+* Âmbito de aplicação
 ** Em razão do espaço (ou a transnacionalidade da situação)
 
 As normas do Regulamento Bruxelas II /ter/ só são aplicáveis quando a situação tenha um elemento de estraneidade. Esta entendimento - que não tinha uma consagração clara no Regulamento Bruxelas II /bis/[Sobre a questão neste Regulamento, cf. @almeida2017, pp. 71 e ss.] - pode encontrar-se hoje nos considerandos (2) a (4) do Regulamento Bruxelas II /ter/[fn:1] e é o único conforme à base habilitante do Regulamento Bruxelas II /ter/, o artigo 81.º, n.º 3, do Tratado sobre o Funcionamento da União Europeia[fn:2].
@@ -21,13 +24,21 @@ Assim, e nos termos do artigo 288.º do TFUE, o Regulamento Bruxelas II bis “[
 
 Desta primeira aproximação resulta que o Regulamento Bruxelas é obrigatório e diretamente aplicável em todos os Estados-Membros, com exceção da Dinamarca. Aprofundando a análise, é possível inferir do artigo 52.º do TUE e do artigo 355.º do TFUE que o Regulamento Bruxelas II /ter/ não será aplicável na totalidade do territórios dos Estados-Membros a ele vinculados. O Regulamento Bruxelas II /ter/ não é aplicável aos países e territórios não europeus que mantêm relações especiais com a França e os Países Baixos[fn:6], nem aos Estados independentes do Principado do Mónaco, Principado de Andorra, São Marino e Vaticano[Cf. @magnus2012, pp. 22-27.] [fn:7].
 
+** Em razão do tempo
 
-** Temporal
-Primeiro explicar diferença entre entrada em vigor (aqui aproveitar para comentar o art. 105.º) e aplicação das normas (art. 100.º)
+O Regulamento Bruxelas II /ter/ distingue, no seu artigo 105.º, entre a data de entrada em vigor (n.º 1) e a data de aplicação das suas normas (artigo 105.º, n.º 2). O Regulamento entrou em vigor no dia 22 de julho de 2019 e as suas normas são aplicáveis a partir de 1 de agosto de 2022, com exceção dos artigos 92.º, 93.º e 103.º, que são aplicáveis a partir de 22 de julho de 2019[fn:10].
 
-Depois falar da revogação (art. 104.º).
+O Tribunal de Justiça da União Europeia[fn:8] teve oportunidade de analisar esta distinção, em sede de Regulamento Roma II, no Acórdão de 17 de novembro de 2011, proc. C-412/10, /Deo Antoine Homawoo contra GMF Assurances SA/, EU:C:2011:747. No entender do TJ “(...) é legítimo que o legislador distinga a data de entrada em vigor da data de aplicação do texto por ele adoptado, atrasando a segunda relativamente à primeira. Uma vez o ato entrado em vigor e, portanto, integrado na ordem jurídica da União, tal procedimento pode permitir, designadamente, que os Estados-Membros ou as instituições da União dêem cumprimento, com fundamento nesse acto, às obrigações prévias que lhes incumbem e que se revelam indispensáveis à sua plena aplicação ulterior a todos os sujeitos de direito que abrange”[fn:9].
 
-** Material
+O âmbito de aplicação em razão do tempo é próximo, mas não se confunde com a data de aplicação das normas do Regulamento. Como se depreende do artigo 100.º, n.º 1, o âmbito de aplicação em razão do tempo do Regulamento Bruxelas II /ter/ estará preenchido quando determinado ato jurídico relevante ocorre a partir de 1 de agosto de 2022. Assim, o âmbito de aplicação em razão do tempo estará preenchido quando a ação seja instaurada[Sobre a determinação do momento em que o processo foi instaurado cf., neste número da Revista, o artigo da Professora Doutora Elsa Dias Oliveira e, em sede de Regulamento Bruxelas II /bis/, @almeida2017, pp. 215 e ss.], o ato autêntico seja exarado ou o acordo seja registado a partir de 1 de agosto de 2022. Assim, e por exemplo, se, no dia 10 de outubro de 2022, é pedido em Portugal o reconhecimento de uma decisão espanhola em matéria de responsabilidade parental proferida no dia 1 de setembro de 2022, na sequência de processo instaurado em 20 de julho de 2022, não serão aplicáveis as regras de reconhecimento do Regulamento Bruxelas II /ter/, mas sim as do Bruxelas II /bis/, como resulta do artigo 100.º, n.º 2, do Regulamento Bruxelas II /ter/.
+
+O âmbito de aplicação em razão do tempo deve, assim, ser também articulado com a norma revogatória prevista no artigo 104.º do Regulamento Bruxelas II /ter/[fn:13]. Apesar de o Regulamento Bruxelas II /ter/ revogar o Regulamento Bruxelas II /bis/ com efeitos a partir de 1 de agosto de 2022[fn:11], as normas deste último Regulamento continuam a aplicar-se sempre que ação tenha sido instaurado, o ato autêntico exarado e o acordo registado antes de 1 de agosto de 2022[fn:12].
+
+Por fim, o artigo 104.º, n.º 2, é uma norma de cariz eminentemente prático que ordena o aplicador e o interprete entenderem quaisquer remissões efetuadas para normas do Regulamento Bruxelas II /bis/ como remissões para as normas correspondentes do Regulamento Bruxelas II /ter/, determinadas de acordo com a tabela de correspondência /oficial/ constante do anexo X deste útlimo Regulamento. Assinala-se que as remissões podem constar de instrumentos normativos de Direito da União Europeia ou de fonte interna[Cf., neste sentido e sede de Regulamento Bruxelas II /bis/, @magnus2012, p. 470.]. Atendendo ao período de aplicabilidade das normas do Regulamento Bruxelas II /bis/ (de 1 de março de 2005 a 31 de julho de 2022), é expectável que haja um número significativo de remissões.
+
+*FALTA*: escrever nota de rodapé com exemplos de instrumentos da UE que remetem para o Regulamento Bruxelas II /bis/.
+
+** Em razão da matéria
 
 Comentar o art. 1.º
 
@@ -42,6 +53,18 @@ Comentar artigos 94.º a 99.º
 * Conclusão
 
 * Footnotes
+
+[fn:13] Norma substancialmente idêntica ao artigo 71.º do Regulamento Bruxelas II /bis/.
+
+[fn:12] O que resulta do artigo 100.º, n.º 2, do Regulamento Bruxelas II /ter/ já analisado e é reforçado pela expressão "Sob reserva do artigo 100.o, n.o 2, do presente regulamento (...)" constante do início do artigo 104.º, n.º 1.
+
+[fn:11] Cf. artigo 104.º, n.º 1, do Regulamento Bruxelas II /ter/.
+
+[fn:10] A data de produção de efeitos destes três artigos coincide com a data de entrada em vigor. Tal justifica-se por razões diversas: os artigos 92.º e 93.º atribuem à Comissão Europeia o poder de adotar atos delegados no que respeita aos anexos do Regulamento, podendo haver interesse em que a Comissão Europeia possa exercer este poder ainda antes da data de aplicação do Regulamento; o artigo 103.º estabelece obrigações de informação aos Estados-Membros, relacionadas com a operacionalização do Regulamento, que deveriam ser comunicadas à Comissão Europeia até 23 de abril de 2021.
+
+[fn:9] Cf. considerando n.º 24. O Advogado-Geral Paolo Mengozzi, nas suas conclusões apresentadas em 6 de setembro de 2011, neste processo, conclui no mesmo sentido, ao afirmar que “[o] legislador distingue a data de entrada em vigor da de aplicação nos regulamentos subsequentes no mesmo domínio, com prazos mais ou menos longos entre estas duas datas, que permitem que os Estados-Membros adoptem eventuais modificações do seu direito nacional antes de transmitirem à Comissão as informações requeridas especificadas no instrumento em questão. Estas informações são depois colocadas à disposição do público, geralmente através de publicação no /Jornal Oficial da União Europeia/” (cf. considerando n.º 22; itálicos no original).
+
+[fn:8] Doravante TJ.
 
 [fn:7] A relevância desta análise mais profunda pode ilustrar-se com o Acórdão do Tribunal da Relação de Lisboa de 10 de maio de 2011, proc. 1105/10.5TYRLSB-1. Foi intentada junto deste Tribunal ação de revisão de sentença estrangeira, pedindo que fosse revista e confirmada a sentença proferida em 11 de março de 2010 pelo Tribunal Real de Guernsey, transitada em julgada, que decretou a dissolução do casamento civil celebrado em 19/5/2006 entre  requerente e requerida. A ação foi intentada de acordo com o Direito de Reconhecimento de fonte interna. O Tribunal da Relação de Lisboa considerou-se hierarquicamente incompetente e absolveu a requerida da instância. Fundamentou esta decisão no facto de a decisão cujo reconhecimento se pedia ter sido proferida por um tribunal de um Estado-Membro após a data de entrada em vigor do Regulamento Bruxelas II /bis/, razão pela qual se aplicaria o regime de reconhecimento consagrado neste Regulamento. De acordo com esse regime, os tribunais competentes para os processos de reconhecimento autónomos são os tribunais de 1.ª instância e não os tribunais da relação, verificando-se assim, no entender do Tribunal da Relação de Lisboa uma incompetência em razão da hierarquia. Sucede porém que, por força do artigo 355.º, n.º 5, alínea /c)/, do TFUE, o Regulamento Bruxelas II /bis/ não é aplicável nas Ilhas Anglo-Normandas e a decisão cujo reconhecimento se pedia foi proferida por um tribunal de uma dessas Ilhas (Guernsey). Como tal, não era aplicável o regime de reconhecimento do Regulamento Bruxelas II /bis/, mas sim o regime da Convenção da Haia de 1970 sobre o Reconhecimento dos Divórcios e Separações de Pessoas.
 
