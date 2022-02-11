@@ -34,9 +34,7 @@ O âmbito de aplicação em razão do tempo é próximo, mas não se confunde co
 
 O âmbito de aplicação em razão do tempo deve, assim, ser também articulado com a norma revogatória prevista no artigo 104.º do Regulamento Bruxelas II /ter/[fn:13]. Apesar de o Regulamento Bruxelas II /ter/ revogar o Regulamento Bruxelas II /bis/ com efeitos a partir de 1 de agosto de 2022[fn:11], as normas deste último Regulamento continuam a aplicar-se sempre que ação tenha sido instaurado, o ato autêntico exarado e o acordo registado antes de 1 de agosto de 2022[fn:12].
 
-Por fim, o artigo 104.º, n.º 2, é uma norma de cariz eminentemente prático que ordena o aplicador e o interprete entenderem quaisquer remissões efetuadas para normas do Regulamento Bruxelas II /bis/ como remissões para as normas correspondentes do Regulamento Bruxelas II /ter/, determinadas de acordo com a tabela de correspondência /oficial/ constante do anexo X deste útlimo Regulamento. Assinala-se que as remissões podem constar de instrumentos normativos de Direito da União Europeia ou de fonte interna[Cf., neste sentido e sede de Regulamento Bruxelas II /bis/, @magnus2012, p. 470.]. Atendendo ao período de aplicabilidade das normas do Regulamento Bruxelas II /bis/ (de 1 de março de 2005 a 31 de julho de 2022), é expectável que haja um número significativo de remissões.
-
-*FALTA*: escrever nota de rodapé com exemplos de instrumentos da UE que remetem para o Regulamento Bruxelas II /bis/.
+Por fim, o artigo 104.º, n.º 2, é uma norma de cariz eminentemente prático que ordena o aplicador e o interprete entenderem quaisquer remissões efetuadas para normas do Regulamento Bruxelas II /bis/ como remissões para as normas correspondentes do Regulamento Bruxelas II /ter/, determinadas de acordo com a tabela de correspondência /oficial/ constante do anexo X deste útlimo Regulamento. Assinala-se que as remissões podem constar de instrumentos normativos de Direito da União Europeia ou de fonte interna[Cf., neste sentido e sede de Regulamento Bruxelas II /bis/, @magnus2012, p. 470.]. Atendendo ao período de aplicabilidade das normas do Regulamento Bruxelas II /bis/ (de 1 de março de 2005 a 31 de julho de 2022), é expectável que haja um número significativo de remissões[fn:14].
 
 ** Em razão da matéria
 
@@ -50,9 +48,21 @@ Comentar artigo 2.º
 
 Comentar artigos 94.º a 99.º
 
+| Reg. BIIter | Reg. BIIbis          |
+|-------------+----------------------|
+| 94.º        | 59.º                 |
+| 95.º        | 60.º/a), b), c) e d) |
+| 96.º        | 60.º/e)              |
+| 97.º/1      | 61.º                 |
+| 97.º/2      | sem correspondência  |
+| 98.º        | 62.º                 |
+| 99.º        | 63.º                 |
+
+
 * Conclusão
 
 * Footnotes
+[fn:14] Sem qualquer pretensão de exaustividade, e limitando-nos aos instrumentos normativos de Direito da União Europeia, encontram-se remissões para as normas do Regulamento Bruxelas II /bis/: /(i)/ no artigo 20.º, n.º 1, da Directiva 2011/99/UE do Parlamento Europeu e do Conselho, de 13 de Dezembro de 2011, relativa à decisão europeia de protecção, publicada no Jornal Oficial da União Europeia (doravante JO) L 338, de 21 de dezembro de 2011, /(ii)/ no artigo 73.º, n.º 1, do Regulamento (CE) n.º 4/2009 do Conselho, de 18 de Dezembro de 2008, relativo à competência, à lei aplicável, ao reconhecimento e à execução das decisões e à cooperação em matéria de obrigações alimentares, publicado no JO L 7, de 10 de janeiro de 2009, /(iii)/ nos artigos 1.º, n.º 2, e 2.º, n.º 1, alínea /b)/, do Regulamento (CE) n.º 664/2009 do Conselho, de 7 de Julho de 2009, que estabelece um procedimento para a negociação e a celebração de acordos entre Estados-Membros e países terceiros relativamente à competência, ao reconhecimento e à execução de sentenças e decisões em matéria matrimonial, de responsabilidade parental e de obrigações de alimentos, bem como à lei aplicável em matéria de obrigações de alimentos, publicado no JO L 200, de 31 de julho de 2009, /(iv)/ no artigo 2.º do Regulamento (UE) n.º 1259/2010 do Conselho, de 20 de Dezembro de 2010, que cria uma cooperação reforçada no domínio da lei aplicável em matéria de divórcio e separação judicial, publicado no JO L 343 de 29 de dezembro de 2010, /(v)/ no artigo 2.º, n.º 3, do Regulamento (UE) n.º 606/2013 do Parlamento Europeu e do Conselho, de 12 de junho de 2013, relativo ao reconhecimento mútuo de medidas de proteção em matéria civil, publicado no JO L 181, de 29 de junho de 2013, e /(vi)/ no artigo 5.º do Regulamento (UE) 2016/1103 do Conselho, de 24 de junho de 2016, que implementa a cooperação reforçada no domínio da competência, da lei aplicável, do reconhecimento e da execução de decisões em matéria de regimes matrimoniais, publicado no JO L 183, de 8 de julho de 2016.
 
 [fn:13] Norma substancialmente idêntica ao artigo 71.º do Regulamento Bruxelas II /bis/.
 
