@@ -46,7 +46,7 @@ Comentar artigo 2.º
 
 * Relações com outros atos
 
-O Capítulo VIII (arts. 94.º a 99.º) do Regulamento Bruxelas II /ter/ regula as relações deste com outros instrumentos de fonte supraestadual. Na análise que se segue, adota-se a perspetiva do ordenamento jurídico português, dando maior enfoque às normas deste Capítulo que são (mais) relevantes para os intérprete e aplicadores do direito que atuam no ordenamento jurídico português. Assinala-se ainda que, em geral, as normas do Capítulo VIII são, em termos substantivos e no geral, próximas das normas correspondentes nos instrumentos que o antecederam (Regulamento Bruxelas II /bis/, Regulamento Bruxelas II[fn:15] e Convenção de Bruxelas II[fn:16]).
+O Capítulo VIII (arts. 94.º a 99.º) do Regulamento Bruxelas II /ter/ regula as relações deste com outros instrumentos de fonte supraestadual. Na análise que se segue, adota-se a perspetiva do ordenamento jurídico português, dando maior enfoque às normas deste Capítulo que são (mais) relevantes para os intérprete e aplicadores do direito que atuam no ordenamento jurídico português. Assinala-se ainda que as normas do Capítulo VIII são, em termos substantivos e no geral, próximas das normas correspondentes nos instrumentos que o antecederam (Regulamento Bruxelas II /bis/, Regulamento Bruxelas II[fn:15] e Convenção de Bruxelas II[fn:16]).
 
 No artigo 94.º, n.º 1, do Regulamento Bruxelas II /ter/ encontramos a norma geral: o Regulamento Bruxelas II /ter/ prevalece sobre e substitui as convenções (bilaterais e multilaterais) existentes entre Estados-Membros com âmbito de aplicação em razão da matéria (pelo menos parcialmente) coincidente. A génese desta norma encontra-se no artigo 38.º da Convenção de Bruxelas II e a sua redação é praticamente idêntica à do artigo 59.º, n.º 1, do Regulamento Bruxelas II /bis/[fn:17]. A norma assenta em três distinções, a saber: uma de cariz material, uma de cariz temporal e outra de cariz subjetivo.
 
@@ -56,22 +56,47 @@ A segunda distinção, assente num critério temporal, delimita a aplicação da
 
 A terceira e última distinção assenta num critério subjetivo e delimita a aplicabilidade do preceito às convenções “celebradas entre dois ou mais Estados-Membros”. As normas das convenções são substituídas pelas normas do Regulamento Bruxelas II /ter/ quando /apenas/ Estados-Membros da União Europeia (vinculados ao Regulamento) sejam Estados Contratantes das convenções.
 
+Os restantes números do artigo 94.º referem-se ao compromisso político gizado com os países nórdicos. O Regulamento Bruxelas II /bis/ concedeu à Finlândia e à Suécia a possibilidade de declarar que a Convenção de 6 de fevereiro de 1931 entre a Dinamarca, a Finlândia, a Islândia, a Noruega e a Suécia relativa às disposições de Direito Internacional Privado em matéria de casamento, adoção e guarda de menores e o respetivo protocolo final prevalecia sobre o Regulamento Bruxelas II /bis/, no todo ou em parte, nas relações entre esses Estados. A Finlândia e a Suécia fizeram tal declaração[fn:19]. Esse compromisso é mantido no Regulamento Bruxelas II /ter/.
+
+O artigo 94.º, n.º 5, do Regulamento Bruxelas II /ter/ tem particular interesse para os intérpretes e órgãos de aplicação do Direito portugueses. Aí se estabelece que as decisões proferidas pelos tribunais da Finlândia e da Suécia /beneficiam/ do regime de reconhecimento e execução previsto no Regulamento Bruxelas II /ter/ desde que a decisão tenha sido proferida "(...) ao abrigo de um critério de competência que corresponda a um dos previstos no capítulo II". Introduz-se, assim, um controlo da competência do tribunal de origem, em regra proíbido[fn:20]. Não é obrigatório que o tribunal indique expressamente, na decisão a reconhecer, o critério de competência em que se fundou[Cf., neste sentido, @magnus2012, p. 426 e, por analogia, o Acórdão do TJ de 15 de julho de 2010, /Bianca Purrucker contra Guillermo Vallés Pérez/, C-256/09, EU:C:2010:437]. Nem nos parece que seja necessário que o concreto critério de competência utilizado para proferir a decisão corresponda a um dos consagrados no Regulamento Bruxelas II /ter/, bastando que seja possível verificar - da análise da decisão - que um dos critérios consagrados no Regulamento Bruxelas II /ter/ se encontra preenchido[fn:21].
+
+O artigo 95.º regula as relações entre o Regulamento Bruxelas II /ter/ e quatro convenções multilaterais, duas em matéria matrimonial[fn:22] e duas em matéria de responsabilidade parental[fn:23]. O Estado Português vinculou-se internacionalmente a três destas convenções, não sendo Estado Contratante da Convenção do Luxemburgo, de 8 de setembro de 1967, sobre o reconhecimento das decisões relativas ao vínculo conjugal.
+
+O artigo 95.º estabelece que nas relações entre dois (ou mais) Estados-Membros da União Europeia que sejam igualmente Estados Contratantes de uma destas convenções multilaterais prevalecem as regras do Regulamento Bruxelas II /ter/. Ou seja: as regras destas convenções multilaterais só são aplicáveis nas relações entre Estados-Membros da União Europeia e Estados terceiros que sejam Estados Contratantes de uma destas quatro convenções[Cf., neste sentido, @corneloup2013, p. 462.] [fn:24]. Esta solução não suscita dificuldades de maior pois as convenções preveem que outros instrumentos possam prevalecer sobre elas[Cf., neste sentido, @magnus2012, p. 428; e, referindo-se apenas à Convenção da Haia, de 1 de junho de 1970, sobre o reconhecimento dos divórcios e separações de pessoas e à Convenção do Luxemburgo, de 8 de setembro de 1967, sobre o reconhecimento das decisões relativas ao vínculo conjugal, @corneloup2018, pp. 465-466] [fn:25].
+
+O artigo 96.º
+
 Comentar artigos 94.º a 99.º
 
-| Reg. BIIter | Reg. BIIbis          |
-|-------------+----------------------|
-| 94.º        | 59.º                 |
-| 95.º        | 60.º/a), b), c) e d) |
-| 96.º        | 60.º/e)              |
-| 97.º/1      | 61.º                 |
-| 97.º/2      | sem correspondência  |
-| 98.º        | 62.º                 |
-| 99.º        | 63.º                 |
+| Reg. BIIter | Reg. BIIbis          |       |
+|-------------+----------------------+-------|
+| 94.º        | 59.º                 | feito |
+| 95.º        | 60.º/a), b), c) e d) | feito |
+| 96.º        | 60.º/e)              |       |
+| 97.º/1      | 61.º                 |       |
+| 97.º/2      | sem correspondência  |       |
+| 98.º        | 62.º                 |       |
+| 99.º        | 63.º                 |       |
 
 
 * Conclusão
 
 * Footnotes
+
+[fn:25] Cf. o artigo 13.º da  Convenção do Luxemburgo, de 8 de setembro de 1967, sobre o reconhecimento das decisões relativas ao vínculo conjugal, o artigo 18.º da Convenção da Haia, de 1 de junho de 1970, sobre o reconhecimento dos divórcios e separações de pessoas e os artigos 19.º e 20 da Convenção Europeia, de 20 de maio de 1980, sobre o reconhecimento e a execução das decisões relativas à custódia de menores e sobre o restabelecimento da custódia de menores. A questão poderia revestir maior complexidade no que se refere à Convenção da Haia, de 5 de outubro de 1961, relativa à competência das autoridades e à lei aplicável em matéria de proteção de menores, atendendo a que o seu artigo 18.º apenas salvaguarda outras convenções /anteriores/. Porém, atualmente, todos os Estados Contratantes desta Convenção são igualmente Estados Contratantes da Convenção da Haia de 1996 relativa à Competência, à Lei Aplicável, ao Reconhecimento, à Execução e à Cooperação em Matéria de Responsabilidade Parental e Medidas de Protecção das Crianças pelo que, nos termos do artigo 51.º desta Convenção, a Convenção da Haia de 1961 não tem hoje aplicação.
+
+[fn:24] Veja-se, como exemplo, a Convenção da Haia, de 1 de junho de 1970, sobre o reconhecimento dos divórcios e separações de pessoas. Dos vinte Estados contratantes, doze são Estados-Membros da União Europeia. Assim, em Portugal, as regras desta Convenção só devem ser aplicadas pelos órgãos aplicadores do direito portugueses quando a decisão estrangeira a reconhecer tenha sido proferida num de 8 Estados Contratantes, a saber, Albânia, Austrália, China (mas apenas as decisões proferidas na região administrativa especial de Hong Kong), Dinamarca, Egito, Moldávia, Noruega, e Suíça.
+
+[fn:23] A Convenção da Haia, de 5 de outubro de 1961, relativa à competência das autoridades e à lei aplicável em matéria de proteção de menores e a Convenção Europeia, de 20 de maio de 1980, sobre o reconhecimento e a execução das decisões relativas à custódia de menores e sobre o restabelecimento da custódia de menores.
+
+[fn:22] A Convenção do Luxemburgo, de 8 de setembro de 1967, sobre o reconhecimento das decisões relativas ao vínculo conjugal e a Convenção da Haia, de 1 de junho de 1970, sobre o reconhecimento dos divórcios e separações de pessoas.
+
+[fn:21] A questão não é muito relevante pois os critérios atributivos de competência internacional previstos na Convenção são bastante similares aos previsto no Regulamento Bruxelas II /ter/.
+
+[fn:20] Cf. artigo 69.º do Regulamento Bruxelas II /ter/.
+
+[fn:19] As declarações foram publicadas como Anexo IV do Regulamento Bruxelas II /bis/.
+
 [fn:18] Cf. o Acórdão do TJ de 31 de março de 1971, proc. 22/70, /Comissão das Comunidades Europeias contra Conselho das Comunidades Europeias (AETR)/, EU:C:1971:32, considerandos n.ºs 17 e 18, o Parecer do TJ de 7 de fevereiro de 2006, Parecer 1/03, EU:C:2006:81, considerando n.º 116, e o Parecer do TJ de 14 de outubro de 2014, Parecer 1/13, EU:C:2014:2303, no qual este Tribunal voltou a afirmar, desta feita em sede do Regulamento Bruxelas II bis, que a “competência da União para celebrar acordos internacionais pode resultar não só de uma atribuição expressa conferida pelos Tratados mas também, implicitamente, de outras disposições dos Tratados e de atos adotados, no âmbito dessas disposições, pelas instituições da União. Em particular, sempre que o Direito da União confira às referidas instituições competências a nível interno, com vista a realizar um determinado objetivo, a União é investida da competência para assumir os compromissos internacionais necessários à realização desse objetivo, mesmo na falta de uma disposição expressa nesse sentido (parecer 1/03, EU:C:2006:81, n.º 114 e jurisprudência referida). Esta última hipótese está, de resto, prevista no artigo 216.º, n.º 1, TFUE” (cf. considerando n.º 67), tendo emitido parecer no sentido de que a “aceitação da adesão de um Estado terceiro à Convenção sobre os Aspetos Civis do Rapto Internacional de Crianças, celebrada em Haia, em 25 de outubro de 1980, é da competência exclusiva da União Europeia” (cf. conclusão do Parecer).
 
 [fn:17] A única diferença de redação diz respeito ao modo como é fixado o momento relevante para apurar se uma determinada convenção é ou não existente. Ambos os Regulamentos fixam como momento relevante a data de entrada em vigor do Regulamento Bruxelas II /bis/ (1 de março de 2005). No artigo 59.º, n.º 1, do Regulamento Bruxelas II /bis/ é utilizada a expressão "(...) as convenções existentes à data da sua entrada em vigor (...)", enquanto que no Regulamento Bruxelas II /ter/ é usada a expressão "(...) as convenções existentes à data da entrada em vigor do Regulamento (CE) n.º 2201/2003 (...)".
