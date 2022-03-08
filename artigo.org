@@ -8,7 +8,7 @@
 * Âmbito de aplicação
 ** Em razão do espaço (ou a transnacionalidade da situação)
 
-As normas do Regulamento Bruxelas II /ter/ só são aplicáveis quando a situação tenha um elemento de estraneidade. Esta entendimento - que não tinha uma consagração clara no Regulamento Bruxelas II /bis/[Sobre a questão neste Regulamento, cf. @almeida2017, pp. 71 e ss.] - pode encontrar-se hoje nos considerandos (2) a (4) do Regulamento Bruxelas II /ter/[fn:1] e é o único conforme à base habilitante do Regulamento Bruxelas II /ter/, o artigo 81.º, n.º 3, do Tratado sobre o Funcionamento da União Europeia[fn:2].
+As normas do Regulamento Bruxelas II /ter/ só são aplicáveis quando a situação tenha um elemento de estraneidade. Este entendimento - que não tinha uma consagração clara no Regulamento Bruxelas II /bis/[Sobre a questão neste Regulamento, cf. @almeida2017, pp. 71 e ss.] - pode encontrar-se hoje nos considerandos 2 a 4 do Regulamento Bruxelas II /ter/[fn:1] e é o único conforme à base habilitante do Regulamento Bruxelas II /ter/, o artigo 81.º, n.º 3, do Tratado sobre o Funcionamento da União Europeia[fn:2].
 
 As normas do Regulamento Bruxelas II /ter/ não são, por isso, aplicáveis aos litígios emergentes de situações puramente internas, isto é, situações que só possuem pontos de contacto relevantes com um único Estado soberano.
 
@@ -20,7 +20,7 @@ Através do âmbito de aplicação em razão do território pretende-se delimita
 
 Assim, e nos termos do artigo 288.º do TFUE, o Regulamento Bruxelas II /ter/ “[é] obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros”. Há, porém, que ter em atenção o Protocolo (N.º 21) relativo à posição do Reino Unido e da Irlanda em relação ao espaço de liberdade, segurança e justiça e o Protocolo (N.º 22) relativo à posição da Dinamarca. Ambos os protocolos estabelecem que os instrumentos de direito derivado da União Europeia, aprovados em aplicação do Título V do Parte III do TFUE, não vinculam /ope iuris/ o Reino Unido, a Irlanda e a Dinamarca, tendo estes Estados-Membros o direito de optar pela participação, ou não, nestes instrumentos de direito derivado da União Europeia.
 
-À semelhança do que tinha sucedido no processo de adoção do Regulamento Bruxelas II /bis/, também no Regulamento Bruxelas II /ter/ se verifica que o Reino Unido[fn:4] e a Irlanda “(...) notificaram a sua intenção de participar na adoção e na aplicação do presente regulamento”[fn:3], pelo que o mesmo lhes é aplicável. O mesmo não sucedeu com a Dinamarca, razão pela qual a mesma não fica vinculada nem sujeita à aplicação do Regulamento Bruxelas II /ter/[fn:5].
+À semelhança do que tinha sucedido no processo de adoção do Regulamento Bruxelas II /bis/, também no Regulamento Bruxelas II /ter/ se verifica que o Reino Unido e a Irlanda “(...) notificaram a sua intenção de participar na adoção e na aplicação do presente regulamento”[fn:3], pelo que o mesmo lhes é aplicável[fn:4]. O mesmo não sucedeu com a Dinamarca, razão pela qual a mesma não fica vinculada nem sujeita à aplicação do Regulamento Bruxelas II /ter/[fn:5].
 
 Desta primeira aproximação resulta que o Regulamento Bruxelas é obrigatório e diretamente aplicável em todos os Estados-Membros, com exceção da Dinamarca. Aprofundando a análise, é possível inferir do artigo 52.º do TUE e do artigo 355.º do TFUE que o Regulamento Bruxelas II /ter/ não será aplicável na totalidade do territórios dos Estados-Membros a ele vinculados. O Regulamento Bruxelas II /ter/ não é aplicável aos países e territórios não europeus que mantêm relações especiais com a França e os Países Baixos[fn:6], nem aos Estados independentes do Principado do Mónaco, Principado de Andorra, São Marino e Vaticano[Cf. @magnus2012, pp. 22-27.] [fn:7].
 
@@ -42,7 +42,15 @@ Comentar o art. 1.º
 
 * Definições
 
-Comentar artigo 2.º
+O Regulamento Bruxelas II /ter/ estabelece regras uniformes de Direito da Competência Internacioal e de Direito do Reconhecimento. Constitui jurisprudência assente do Tribunal de Justiça da União Europeia que os conceitos usados nos regulamentos e em outros diplomas da União Europeia devem ser objeto de interpretação autónoma relativamente ao Direito dos Estados-Membros, de maneira a assegurar a harmonia jurídica internacional e a segurança jurídica. Em especial, o Tribunal de Justiça tem vincado que a interpretação dos atos da União Europeia deve ter em conta o contexto da disposição e o objetivo prosseguido pela regulamentação em causa[fn:37] [Na doutrina portuguesa, cf., em geral, @pinheiro2014, pp. 460-461; em sede do Regulamento Roma II, @oliveira2011, pp. 213 e ss.; e @almeida2017, pp. 34-35 e 114-119.]. A esta luz, as definições constantes do artigo 2.º têm particular relevância pois promovem uma interpretação e aplicação /uniforme/ das regras do Regulamento Bruxelas II /ter/ nos vários Estados-Membros.
+
+** Coisas a fazer :noexport:
+
+1. [X] Interpretação autónoma e a relevância das definições
+2. [ ] O conceito de decisão (n.º 1)
+3. [ ] Os restantes conceitos (n.º 2)
+4. [ ] Os conceitos não definidos: casamento e a residência habitual
+5. [ ] A substituição do residência habitual pelo /domicile/, no caso da Irlanda (n.º 3)
 
 * Relações com outros atos
 
@@ -72,29 +80,16 @@ O artigo 98.º do Regulamento Bruxelas II /ter/ parece ter um conteúdo merament
 
 Espanha, Itália, Malta e Portugal celebraram Tratados com a Santa Sé, nos quais se regula a matéria da anulação do casamento católico. O artigo 99.º do Regulamento Bruxelas II /ter/ rege a articulação com estes Tratados. Os n.ºs 1 e 2 regem a articulação do Regulamento com a Concordata celebrada entre a Santa Sé e Portugal; os n.º 3 e 4 regem a articulação do Regulamento com os Tratados celebrados entre a Santa Sé e Espanha, Itália e Malta; por fim, o n.º 5 estabelece obrigações de informações aos quatro Estados-Membros.
 
-O tratamento autónomo da Concordata celebrada entre a Santa Sé e Portugal tem uma razão histórica: a Concordata de 1940 estabelecia, no seu artigo XXV, que "O conhecimento das causas concernentes à nulidade do casamento católico e à dispensa do casamento rato e não consumado, é reservado aos tribunais e repartições eclesiásticos competentes"; as Concordatas celebradas com Espanha, Itália e Malta não contêm idêntica disposição, admitindo uma competência concorrente dos tribunais civis e eclesiásticos. O Regulamento Bruxelas II /ter/[fn:32] colide assim com as obrigações internacionais assumidas por Portugal na Concordata de 1940, na medida em que prevê a competência internacional dos tribunais (civis) dos Estados-Membros, e o reconhecimento das decisões proferidas por esses tribunais, para as ações de anulação dos casamentos concordatários portugueses[fn:33]. Por esse motivos, o artigo 99.º, n.º 1, do Regulamento Bruxelas II /ter/[fn:34] concederia a Portugal a faculdade de não reconhecer a competência internacional nem as decisões de anulação de casamentos concordatários portugueses proferidas por tribunais (civis) de outros Estados-Membros[Cf., neste sentido,  @borras1998, p. 61, ponto 120; *INSERIR MAGNUS e FRANCÊS*].
+O tratamento autónomo da Concordata celebrada entre a Santa Sé e Portugal tem uma razão histórica: a Concordata de 1940 estabelecia, no seu artigo XXV, que "O conhecimento das causas concernentes à nulidade do casamento católico e à dispensa do casamento rato e não consumado, é reservado aos tribunais e repartições eclesiásticos competentes"; as Concordatas celebradas com Espanha, Itália e Malta não contêm idêntica disposição, admitindo uma competência concorrente dos tribunais civis e eclesiásticos. O Regulamento Bruxelas II /ter/[fn:32] colide assim com as obrigações internacionais assumidas por Portugal na Concordata de 1940, na medida em que prevê a competência internacional dos tribunais (civis) dos Estados-Membros, e o reconhecimento das decisões proferidas por esses tribunais, para as ações de anulação dos casamentos concordatários portugueses[fn:33]. Por esse motivos, o artigo 99.º, n.º 1, do Regulamento Bruxelas II /ter/[fn:34] concederia a Portugal a faculdade de não reconhecer a competência internacional nem as decisões de anulação de casamentos concordatários portugueses proferidas por tribunais (civis) de outros Estados-Membros[Cf., neste sentido,  @borras1998, p. 61, ponto 120; @magnus2012, p. 433.].
 
-Sucede, porém, que foi celebrada a Concordata entre a República Portuguesa e a Santa Sé de 2004, que substitui a de 1940. A Concordata de 2004 /não/ atribui competência exclusiva aos tribunais eclesiásticos[fn:35]. Deixou, por isso, de existir o compromisso internacional previamente assumido que justificava a faculdade de não reconhecer decisões de anulação de casamento proferidas por tribunais (civis) de outros Estados-Membros.
+Sucede, porém, que foi celebrada a Concordata entre a República Portuguesa e a Santa Sé de 2004, que substitui a de 1940. A Concordata de 2004 /não/ atribui competência exclusiva aos tribunais eclesiásticos[fn:35]. Deixou, por isso, de existir o compromisso internacional previamente assumido que justificava a faculdade de não reconhecer decisões de anulação de casamento proferidas por tribunais (civis) de outros Estados-Membros[Cf., em sentido semelhante, @corneloup2013, pp. 473-474.].
 
 O artigo 99.º, n.º 2, estabelece que as decisões em matéria de ações matrimoniais proferidas pelos tribunais eclesiásticos ao abrigo da Concordata de 2004 beneficiam do regime de reconhecimento do Regulamento Bruxelas II /ter/, depois de revistas e confirmadas em conformidade com o disposto no artigo 16.º da Concordata de 2004[Cf., no mesmo sentido, @borras1998, p. 61, ponto 120.]. O reconhecimento destas decisões em Espanha, Itália ou Malta pode ficar sujeito aos requisitos previstos nos respetivos Tratados celebrados com a Santa Sé[fn:36].
-
-
-** Coisas a fazer Comentar artigos 94.º a 99.º :noexport:
-
-| Reg. BIIter | Reg. BIIbis          |       |
-|-------------+----------------------+-------|
-| 94.º        | 59.º                 | feito |
-| 95.º        | 60.º/a), b), c) e d) | feito |
-| 96.º        | 60.º/e)              | feito |
-| 97.º/1      | 61.º                 | feito |
-| 97.º/2      | sem correspondência  | feito |
-| 98.º        | 62.º                 | feito |
-| 99.º        | 63.º                 | feito |
-
 
 * Conclusão
 
 * Footnotes
+[fn:37] A questão surgiu, inicialmente, com a interpretação dos conceitos da Conveção de Bruxelas de 1968 relativa à Competência Jurisdicional e à Execução de Decisões em Matéria Civil e Comercial, com maior acuidade no Acórdão de 14 de outubro de 1976, /Eurocontrol/, 29/76, EU:C:1976:137, considerando n.º 3. No âmbito do Regulamento Bruxelas II /bis/, veja-se, por exemplo, o Acórdão de 2 de abril de 2009, /A./, C-523/07, EU:C:2009:225, considerando n.º 34, e os recentíssimos Acórdãos de 2 de agosto de 2021, /A. contra B./, proc. C-262/21 PPU, EU:C:2021:640, considerando n.º 40 e de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerandos n.º 38 e ss..
 
 [fn:36] Cf. artigo 99.º, n.º 4, do Regulamento Bruxelas II /ter/.
 
