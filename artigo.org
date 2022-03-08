@@ -72,6 +72,12 @@ O artigo 98.º do Regulamento Bruxelas II /ter/ parece ter um conteúdo merament
 
 Espanha, Itália, Malta e Portugal celebraram Tratados com a Santa Sé, nos quais se regula a matéria da anulação do casamento católico. O artigo 99.º do Regulamento Bruxelas II /ter/ rege a articulação com estes Tratados. Os n.ºs 1 e 2 regem a articulação do Regulamento com a Concordata celebrada entre a Santa Sé e Portugal; os n.º 3 e 4 regem a articulação do Regulamento com os Tratados celebrados entre a Santa Sé e Espanha, Itália e Malta; por fim, o n.º 5 estabelece obrigações de informações aos quatro Estados-Membros.
 
+O tratamento autónomo da Concordata celebrada entre a Santa Sé e Portugal tem uma razão histórica: a Concordata de 1940 estabelecia, no seu artigo XXV, que "O conhecimento das causas concernentes à nulidade do casamento católico e à dispensa do casamento rato e não consumado, é reservado aos tribunais e repartições eclesiásticos competentes"; as Concordatas celebradas com Espanha, Itália e Malta não contêm idêntica disposição, admitindo uma competência concorrente dos tribunais civis e eclesiásticos. O Regulamento Bruxelas II /ter/[fn:32] colide assim com as obrigações internacionais assumidas por Portugal na Concordata de 1940, na medida em que prevê a competência internacional dos tribunais (civis) dos Estados-Membros, e o reconhecimento das decisões proferidas por esses tribunais, para as ações de anulação dos casamentos concordatários portugueses[fn:33]. Por esse motivos, o artigo 99.º, n.º 1, do Regulamento Bruxelas II /ter/[fn:34] concederia a Portugal a faculdade de não reconhecer a competência internacional nem as decisões de anulação de casamentos concordatários portugueses proferidas por tribunais (civis) de outros Estados-Membros[Cf., neste sentido,  @borras1998, p. 61, ponto 120; *INSERIR MAGNUS e FRANCÊS*].
+
+Sucede, porém, que foi celebrada a Concordata entre a República Portuguesa e a Santa Sé de 2004, que substitui a de 1940. A Concordata de 2004 /não/ atribui competência exclusiva aos tribunais eclesiásticos[fn:35]. Deixou, por isso, de existir o compromisso internacional previamente assumido que justificava a faculdade de não reconhecer decisões de anulação de casamento proferidas por tribunais (civis) de outros Estados-Membros.
+
+O artigo 99.º, n.º 2, estabelece que as decisões em matéria de ações matrimoniais proferidas pelos tribunais eclesiásticos ao abrigo da Concordata de 2004 beneficiam do regime de reconhecimento do Regulamento Bruxelas II /ter/, depois de revistas e confirmadas em conformidade com o disposto no artigo 16.º da Concordata de 2004[Cf., no mesmo sentido, @borras1998, p. 61, ponto 120.]. O reconhecimento destas decisões em Espanha, Itália ou Malta pode ficar sujeito aos requisitos previstos nos respetivos Tratados celebrados com a Santa Sé[fn:36].
+
 
 ** Coisas a fazer Comentar artigos 94.º a 99.º :noexport:
 
@@ -82,13 +88,24 @@ Espanha, Itália, Malta e Portugal celebraram Tratados com a Santa Sé, nos quai
 | 96.º        | 60.º/e)              | feito |
 | 97.º/1      | 61.º                 | feito |
 | 97.º/2      | sem correspondência  | feito |
-| 98.º        | 62.º                 |       |
-| 99.º        | 63.º                 |       |
+| 98.º        | 62.º                 | feito |
+| 99.º        | 63.º                 | feito |
 
 
 * Conclusão
 
 * Footnotes
+
+[fn:36] Cf. artigo 99.º, n.º 4, do Regulamento Bruxelas II /ter/.
+
+[fn:35] Estabelece o artigo 16.º, n.º 1, da Concordata de 2004 que "As decisões relativas à nulidade e à dispensa pontifícia do casamento rato e não consumado pelas autoridades eclesiásticas competentes, verificadas pelo órgão eclesiástico de controlo superior, produzem efeitos civis, a requerimento de qualquer das partes, após revisão e confirmação, nos termos do direito português, pelo competente tribunal do Estado".
+
+[fn:34] Este preceito é substancialmente idêntico ao artigo 62.º do Regulamento Bruxelas II /bis/, ao artigo 40.º do Regulamento Bruxelas II e ao artigo 42.º da Convenção de Bruxelas II, atualizando apenas a menção à Concordata celebrada entre a Santa Sé e Portugal em 2004.
+
+[fn:33] Veja-se o seguinte exemplo: A., português, e B., espanhola, celebram casamento católico entre si em Portugal. Após o casamento passam a residir habitualmente na Itália. Caso um deles pretenda intentar ação de anulação do casamento, os tribunais internacionalmente competentes são os italianos, por força do artigo 3.º, alínea /a)/, subalínea /i)/, do Regulamento Bruxelas II /ter/. Caso o tribunal italiano profira uma decisão de anulação do casamento, esta decisão seria automáticamente reconhecida em Portugal, por força do artigo 30.º do Regulamento Bruxelas II /ter/.
+
+[fn:32] E o Regulamento Bruxelas II /bis/, o Regulamento Bruxelas II e a Convenção de Bruxelas II.
+
 [fn:31] O que foi expressamente referido pelo legislador no considerando n.º 92 do Regulamento Bruxelas II /ter/.
 
 [fn:30] Cf. artigo 97.º, n.º 1, alínea /a)/, do Regulamento Bruxelas II /ter/.
