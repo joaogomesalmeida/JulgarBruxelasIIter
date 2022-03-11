@@ -44,6 +44,21 @@ Comentar o art. 1.º
 
 O Regulamento Bruxelas II /ter/ estabelece regras uniformes de Direito da Competência Internacioal e de Direito do Reconhecimento. Constitui jurisprudência assente do Tribunal de Justiça da União Europeia que os conceitos usados nos regulamentos e em outros diplomas da União Europeia devem ser objeto de interpretação autónoma relativamente ao Direito dos Estados-Membros, de maneira a assegurar a harmonia jurídica internacional e a segurança jurídica. Em especial, o Tribunal de Justiça tem vincado que a interpretação dos atos da União Europeia deve ter em conta o contexto da disposição e o objetivo prosseguido pela regulamentação em causa[fn:37] [Na doutrina portuguesa, cf., em geral, @pinheiro2014, pp. 460-461; em sede do Regulamento Roma II, @oliveira2011, pp. 213 e ss.; e @almeida2017, pp. 34-35 e 114-119.]. A esta luz, as definições constantes do artigo 2.º têm particular relevância pois promovem uma interpretação e aplicação /uniforme/ das regras do Regulamento Bruxelas II /ter/ nos vários Estados-Membros.
 
+O conceito de decisão, previsto no artigo 2.º, n.º 1, do Regulamento Bruxelas II /ter/ é um conceito /amplo/, que abrange decisões, sentenças, acórdãos ou despachos judiciais proferidos por um tribunal de um Estado-Membro. O primeiro parágrafo do artigo 2.º, n.º 1, corresponde, com ajustes de redação, ao artigo 2.º, n.º 4, do Regulamento Bruxelas II /bis/. Destes ajustes destacamos substituição da expressão "decisão de divórcio, separação ou anulação do casamento" pela expressão decisão "que decreta o divórcio, a separação ou a anulação do casamento". No contexto dos instrumentos precedentes, em particular o Regulamento Bruxelas II /bis/, discutiu-se se o conceito de decisão abrangia /todas/ as decisões de divórcio, separação ou anulação do casamento ou /apenas/ as decisões /positivas/, isto é, as que decretavam o divórcio, a separação ou a anulação do casamento[Cf. @almeida2017, pp. 484 e ss. e bibliografia aí citada.]. A nova redação[fn:38] aponta de forma mais clara no sentido (já sufragado pela maioria da doutrina no âmbito do Regulamento Bruxelas II /bis/) de que apenas as decisões que decretam o divórcio, a separação ou a anulação do casamento beneficiam do regime de reconhecimento do Regulamento Bruxelas II /ter/. A questão não se coloca em matéria de responsabilidade parental, beneficiando do regime de reconhecimento todas as decisões proferidas em matéria de responsabilidade de parental[fn:39]. O conceito de tribunal é definido e será abordado /infra/. O conceito de Estado-Membro /não é definido/ no Regulamento, mas resulta do /supra/ exposto quanto ao âmbito de aplicação em razão do território que ele deve ser interpretado como abrangendo todos os Estados-Membros da União Europeia com exceção da Dinamarca.
+
+*Bruxelas II /bis/*
+«Decisão», qualquer decisão de divórcio, separação ou anulação do casamento, bem como qualquer decisão relativa à responsabilidade parental proferida por um tribunal de um Estado-Membro, independentemente da sua designação, tal como «acórdão», «sentença» ou «despacho judicial».
+
+*Bruxelas II /ter/*
+1. Para efeitos do presente regulamento, entende-se por «decisão» uma decisão proferida por um tribunal de um Estado-Membro, incluindo qualquer acórdão, sentença ou despacho judicial que decreta o divórcio, a separação ou a anulação do casamento ou relativa à responsabilidade parental.
+
+Para efeitos do capítulo IV, o termo «decisão» inclui também:
+a) As decisões proferidas num Estado-Membro que ordenem o regresso de uma criança a outro Estado-Membro nos termos da Convenção da Haia de 1980 que devam ser executadas num Estado-Membro diferente do Estado-Membro onde a decisão foi proferida;
+b) As medidas provisórias e cautelares decretadas por um tribunal que, por força do presente regulamento, tenha competência quanto ao mérito da causa ou as medidas decretadas em conformidade com o artigo 27.º, n.º 5, em conjugação com o artigo 15.o.
+
+Para efeitos do capítulo IV, o termo «decisão» não inclui as medidas provisórias e cautelares decretadas por esse tribunal sem que o requerido tenha sido notificado a comparecer, salvo se a decisão que ordena a medida tiver sido notificada ao requerido antes da execução.
+
+
 ** Coisas a fazer :noexport:
 
 1. [X] Interpretação autónoma e a relevância das definições
@@ -89,6 +104,10 @@ O artigo 99.º, n.º 2, estabelece que as decisões em matéria de ações matri
 * Conclusão
 
 * Footnotes
+[fn:39] Isso mesmo resulta da diferente redação do preceito, que utiliza a expressão decisão "relativa à responsabilidade parental".
+
+[fn:38] As versões inglesa ("including a decree, order or judgment, /granting/ divorce, legal separation, or annulment of a marriage,"), francesa ("y compris un arrêt, un jugement ou une ordonnance, /accordant/ le divorce, la séparation de corps ou l’annulation d’un mariage"), espanhola ("en particular un fallo, una orden o una resolución que conceda el divorcio, la separación legal, la nulidad matrimonial"), italiana ("inclusi un decreto, un’ordinanza o una sentenza, /che sancisca/ il divorzio, la separazione personale dei coniugi, l’annullamento del matrimonio") e alemã ("einschließlich einer Verfügung, eines Beschlusses oder eines Urteils, mit der die Ehescheidung, die Trennung ohne Auflösung des Ehebandes oder die Ungültigerklärung einer Ehe /ausgesprochen wird/") apontam no mesmo sentido. Itálicos aditados.
+
 [fn:37] A questão surgiu, inicialmente, com a interpretação dos conceitos da Conveção de Bruxelas de 1968 relativa à Competência Jurisdicional e à Execução de Decisões em Matéria Civil e Comercial, com maior acuidade no Acórdão de 14 de outubro de 1976, /Eurocontrol/, 29/76, EU:C:1976:137, considerando n.º 3. No âmbito do Regulamento Bruxelas II /bis/, veja-se, por exemplo, o Acórdão de 2 de abril de 2009, /A./, C-523/07, EU:C:2009:225, considerando n.º 34, e os recentíssimos Acórdãos de 2 de agosto de 2021, /A. contra B./, proc. C-262/21 PPU, EU:C:2021:640, considerando n.º 40 e de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerandos n.º 38 e ss..
 
 [fn:36] Cf. artigo 99.º, n.º 4, do Regulamento Bruxelas II /ter/.
