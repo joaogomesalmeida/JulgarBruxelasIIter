@@ -48,25 +48,38 @@ O conceito de decisão, previsto no artigo 2.º, n.º 1, do Regulamento Bruxelas
 
 Os restantes parágrafos do artigo 2.º, n.º 1, do Regulamento Bruxelas II /bis/ são novos e procedem a algumas clarificações. A alínea /a)/ do segundo parágrafo esclarece que, apesar de não serem decisões de mérito relativas à responsabilidade parental, as decisões proferidas por tribunais de Estados-Membros que ordenem o regresso da criança nos termos da Convenção da Haia de 1980 /beneficam igualmente/ do regime de reconhecimento previsto no Regulamento Bruxelas II /ter/. A alínea /b)/ do 2.º parágrafo clarifica que /também beneficiam/ do regime de reconhecimento do Regulamento Bruxelas II /ter/ as medidas provisórias e cautelares decretadas pelo tribunal do Estado-Membro competente para conhecer do mérito da causa ou pelo tribunal do Estado-Membro que profira uma decisão de regresso da criança nos termos da Convenção da Haia de 1980. Pelo contrário, /não beneficiam/ do regime de reconhecimento /nem/ as medidas provisórias e cautelares decretadas por um tribunal de um Estado-Membro que não é competente para conhecer do mérito da causa[fn:40] /nem/ as decretadas sem contraditório do requerido, salvo se a decisão que ordena a medida tiver sido notificada ao requerido antes da execução[Cf. terceiro parágrafo do artigo 2.º, n.º 1, do Regulamento Bruxelas II /ter/. Trata-se da solução já anteriormente consagrada no artigo 2.º, alínea /a)/ do Regulamento Bruxelas I /bis/. Sobre esta solução, cf., entre outros, @pinheiro2019b, p. 76; e @magnus2016a, pp. 97-99.].
 
-tribunal
+O Regulamento Bruxelas II /ter/ mantêm um conceito /amplo/ de tribunal, que abrange autoridade /não jurisdicionais/ como autoridades administrativas ou, como sucede nalguns Estados-Membros, os notários. Decisivo é que essas autoridades /não jurisdicionais/ tenham, no respetivo Estado-Membro, competência em matéria de ações matrimoniais ou em matéria relativa à responsabilidade parental.
 
-ato autêntico
+O conceito de ato autêntico não era definido no Regulamento Bruxelas II /bis/. A definição que agora consta no Regulamento Bruxelas II /ter/ é substancialmente idêntica à de outros Regulamentos[fn:41] e teve origem na jurisprudência do TJ[fn:42]. Novidade é a obrigação dos Estados-Membros comunicarem à Comissão Europeia quem são, nos respetivos Estados-Membros, as autoridades públicas ou outras autoridades habilitadas para o efeito.
 
-Acordo
+Novo é igualmente o conceito de acordo. Este conceito releva apenas para efeitos do regime de reconhecimento e execução previsto no Regulamento Bruxelas II /ter/ e assenta em três elementos: /(i)/ versa sobre uma das matérias abrangidas pelo Regulamento Bruxelas II /ter/; /(ii)/ não é um ato autêntico; mas /(iii)/ é objeto de registo por uma das autoridades indicadas pelos Estados-Membros. O Regulamento distingue assim entre atos autênticos, acordos registados e acordos simples ou não registados: os dois primeiros beneficiam do regime de reconhecimento e execução do Regulamento Bruxelas II /ter/[fn:43]; os acordos simples ou não registados não.
 
-Estado-Membro de origem e de execução
+Os conceitos de Estado-Membro de origem e Estado-Membro de execução[fn:44] são já conceitos comuns no Direito do Reconhecimento da União Europeia e visam sobretudo facilitar a leitura e compreensão das regras que compõem o regime de reconhecimento e execução do Regulamento. O Estado-Membro de origem é o Estado-Membro onde foi proferida a decisão, foi formalmente exarado ou registado o ato autêntico ou foi registado o acordo e o Estado-Membro de execução é o Estado-Membro onde se requer o reconhecimento e ou a execução da decisão, do ato autêntico ou do acordo registado[fn:45].
 
-Criança
+Introduz-se o conceito de criança, definida como qualquer pessoa singular com idade inferior a 18 anos. Mesmo os menores emancipados são considerados crianças. Pretende-se, desta forma, assegurar um paralelismo com a Convenção da Haia de 1996, relativa à Competência, à Lei Aplicável, ao Reconhecimento, à Execução e à Cooperação em matéria de Responsabilidade Parental e Medidas de Proteção das Crianças (Convenção da Haia de 1996) e evitar sobreposições com o âmbito de aplicação da Convenção da Haia de 2000, sobre a Proteção Internacional dos Adultos (Convenção da Haia de 2000), bem como lacunas de regulação. Assinala-se, igualmente, que, para efeitos de rapto internacional de crianças (Capítulo III do Regulamento Bruxelas II /ter/) o conceito de criança é o da Convenção da Haia de 1980, sobre os Aspetos Civis do Rapto Internacional de Crianças (Convenção da Haia de 1980), ou seja, são consideradas crianças as pessoas singulares com idade inferior a 16 anos[fn:46].
 
-Responsabilidade parental
+O conceito de responsabilidade parental é substancialmente idêntico ao adotado no Regulamento Bruxelas II /bis/[fn:47]. Trata-se de um conceito amplo[fn:48], inspirado na Convenção da Haia de 1996[Cf. artigo 1.º, n.º 2, da Convenção da Haia de 1996; no mesmo sentido @magnus2016a, p. 73]. O conceito de responsabilidade parental abrange a responsabilidade pela criança, pelos seus bens e a representação legal da criança, abrangendo a generalidade das medidas de proteção da criança[Cf. @pinheiro2019c, pp. 275-276; e @fialho2019, p. 17. A enunciação de matérias que consta do artigo 1.º, n.º 2, do Regulamento Bruxelas II /ter/ não é taxativa e tem carácter indicativo (ver Acórdãos do Tribunal de Justiça de 21 de outubro de 2015, /Gogova/, C-215/15, EU:C:2015:710, considerando 27,de 26 de abril de 2012, /Health Service Executive/, C-92/12 PPU, EU:C:2012:255, considerando 63 e de 27 de novembro de 2007, /C/, C-435/06, EU:C:2007:714, considerando 30) e as exclusões previstas no artigo 1.º, n.º 3, devem ser objeto de interpretação estrita (Acórdãos /Gogova/, considerando 30 e  /Health Service Executive/, considerando 65)] [fn:50].
 
-Titular da responsabilidade parental
+O Regulamento Bruxelas II /ter/ mantêm o conceito de titular da responsabilidade parental. O ajuste de redação, que explicita que pode ser titular, para além de qualquer pessoa, qualquer instituição ou qualquer outro organismo que exerça a responsabilidade parental em relação a uma criança não parece ser uma novidade /substantiva/, podendo, no entanto, ter o intuito pedagógio de clarificar que outras entidades para além das pessoas singulares podem ser titulares da responsabilidade parental.
 
-Direito de guarda
+A definição de direito de guarda mantém-se substancialmente inalterado. Este conceito, inspirado no adotado nas Convenções da Haia de 1980 e de 1996. O foco deste direito está na proteção da pessoa (e não do património) da criança[Cf. @perez-vera1980, pp. 451-452, ponto 84 e as versões espanhola ("los derechos y obligaciones relativos al cuidado de /la persona/ de un menor"), inglesa ("rights and duties relating to the care of /the person/ of a child"), italiana ("i diritti e doveri concernenti la cura /della persona/ di un minore") e francesa ("les droits et obligations portant sur les soins de /la personne/ d’un enfant") do Regulamento Bruxelas II /ter/].
 
-Direito de visita
+Também o conceito de direito de visita se mantém substancialmente inalterado, apesar de ligeiros ajustes de redação. Trata-se de um conceito autónomo, definido em termos amplos, pois abrange, exemplificativamente, o direito de levar uma criança, por um período limitado, para um lugar diferente do da sua residência habitual. Abrangendo este direito, abrange igualmente outros meios de contacto com o menor menos intensos, como a visita no lugar de residência habitual do menor e o contacto por telefone, videochamada ou correio eletrónico[Cf., em sentido semelhante,  @magnus2012, p. 85.]. Quanto a quem podem ser os titulares do direito de visita, o TJ esclareceu que este conceito "deve ser entendido no sentido de que se refere não só ao direito de visita dos progenitores em relação ao filho, mas igualmente ao de outras pessoas com as quais é importante que o menor mantenha relações pessoais, designadamente os seus avós, independentemente de se tratar ou não de titulares da responsabilidade parental."[fn:49]
 
 Deslocação ou retenção ilícitas
+
+Bruxelas II /ter/
+
+11) «Deslocação ou retenção ilícitas»: a deslocação ou a retenção de uma criança, quando:
+a) viole o direito de guarda conferido por decisão judicial, por atribuição de pleno direito ou por acordo em vigor nos termos do direito do Estado-Membro onde a criança tinha a sua residência habitual imediatamente antes da deslocação ou retenção; e
+b) no momento da deslocação ou retenção, o direito de guarda estivesse a ser efetivamente exercido, quer conjunta, quer separadamente, ou devesse estar a sê-lo, caso não tivesse ocorrido a deslocação ou retenção.
+
+
+Bruxelas II /bis/
+
+11. «Deslocação ou retenção ilícitas de uma criança», a desloca- ção ou a retenção de uma criança, quando:
+a) Viole o direito de guarda conferido por decisão judicial, por atribuição de pleno direito ou por acordo em vigor por força da legislação do Estado-Membro onde a criança tinha a sua residência habitual imediatamente antes da deslocação ou retenção; e
+b) No momento da deslocação ou retenção, o direito de guarda estivesse a ser efectivamente exercido, quer con- junta, quer separadamente, ou devesse estar a sê-lo, caso não tivesse ocorrido a deslocação ou retenção. Considera-se que a guarda é exercida conjuntamente quando um dos titulares da responsabilidade parental não pode, por força de uma decisão ou por atribuição de pleno direito, decidir sobre local de residência da criança sem o consentimento do outro titular da res- ponsabilidade parental
 
 ** Coisas a fazer :noexport:
 
@@ -113,6 +126,26 @@ O artigo 99.º, n.º 2, estabelece que as decisões em matéria de ações matri
 * Conclusão
 
 * Footnotes
+
+[fn:50] Cf., também, o Acórdão de 3 de outubro de 2019, /OF contra PG/, C-759/18, EU:C:2019:816, no qual o TJ afirmou "que o conceito de «responsabilidade parental», na aceção do artigo 2.º, ponto 7, do Regulamento n.º 2201/2003, abrange, nomeadamente, todas as decisões em matéria de direito de guarda e de residência do menor" (considerando n.º 52).
+
+[fn:49] Acórdão de 31 de maio de 2018, /Valcheva/, C-335/17, EU:C:2018:359, considerando 33.
+
+[fn:48] Cf. Acórdãos do Tribunal de Justiça de 21 de outubro de 2015, /Gogova/, C-215/15, EU:C:2015:710, considerando 27,de 26 de abril de 2012, /Health Service Executive/, C-92/12 PPU, EU:C:2012:255, considerando 59 e de 27 de novembro de 2007, /C/, C-435/06, EU:C:2007:714, considerando 49.
+
+[fn:47] Cf. artigo 2.º, n.º 7, do Regulamento Bruxelas II /bis/.
+
+[fn:46] Cf. considerando n.º 17 do Regulamento Bruxelas II /ter/ e o artigo 4.º da Convenção da Haia de 1980.
+
+[fn:45] Apesar de a definição mencionar apenas a execução, como o fazia o Regulamento Bruxelas II /bis/, parece-nos mais correta a formulação adotada nos demais regulamentos (v.g. Regulamento Bruxelas I /bis/, Regulamento sobre Sucessoões e Regulamento sobre regimes matrimoniais).
+
+[fn:44] O Regulamento Bruxelas I /bis/ utiliza a expressão Estado-Membro requerido, que nos parece preferível.
+
+[fn:43] Cf. artigos 64.º e ss. do Regulamento Bruxelas II /ter/.
+
+[fn:42] Cf. Acórdão de 17 de junho de 1999, /Unibank/, C-260/97, EU:C:1999:312.
+
+[fn:41] Cf. considerando n.º 15 do Regulamento Bruxelas II /ter/ e artigo 2.º, alínea /c)/, do Regulamento Bruxelas I /bis/, artigo 3.º, n.º 1, alínea /i)/ do Regulamento sobre sucessões, artigo 3.º, n.º 1, alínea /c)/, do Regulamento sobre regimes matrimoniais e o artigo 3.º, n.º 1, alínea /d)/, do Regulamento sobre efeitos patrimoniais das parcerias registadas.
 
 [fn:40] Cf. artigo 15.º do Regulamento Bruxelas II /ter/.
 
