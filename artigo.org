@@ -77,14 +77,18 @@ O último conceito definido no artigo 2.º do Regulamento Bruxelas II /ter/ é o
 
 Alguns conceitos relevantes não são contudo definidos no Regulamento Bruxelas II /ter/. É o caso dos conceitos de matéria civil e casamento, que se abordaram /supra/ aquando da análise do âmbito de aplicação em razão da matéria e do conceito de residência habitual (da criança e dos cônjuges) que é primordial para determinar a competência internacional em matéria de ações matrimoniais e de reponsabilidade parental. Há, atualmente, uma jurisprudência do TJ bastante extensa quanto ao conceito de residência habitual da criança[fn:53] e, muito recentemente, foi proferido um acórdão relevante em matéria de residência habitual dos cônjuges[fn:54]. Da jurisprudência do TJ resulta que o o significado e âmbito de residência habitual é variável em função do contexto e dos objetivos prossegui- dos pelo instrumento normativo comunitário em que está inserido, o que dificulta a sua transposição de uma matéria para outra. O Tribunal de Justiça expressamente declarou que as indigações efetuadas em matéria de segurança social não são transponíveis para a matéria da responsabilidade parental[fn:55]. O conceito de residência habitual, tal como entendido pelo TJ, é essencialmente uma questão de facto[fn:56]. O conceito exige presença física e uma nota de estabilidade ou regularidade. A residência habitual é, assim, o lugar onde o interessado fixou, om a vontade de lhe conferir um caráter estável, o centro permanente ou habitual dos seus interesses[fn:57]. Assim, pode concluir-se, em termos gerais, que as pistas recolhidas apontam para uma interpretação autónoma do conceito de residência habitual como o centro de interesses da pessoa (cônjuge ou criança), o qual deve ser determinado tendo em consideração a duração e continuidade da residência, as ligações pessoais, familiares e profissionais, bem como a integração social e económica do indivíduo na sociedade em que reside.
 
+Por fim, no artigo 2.º, n.º 3, estabelece-se que para efeitos dos artigos 3.º, 6.º, 10.º, 12.º, 13.º, 51.º, 59.º, 75.º, 94.º e 102.º o conceito de «domicílio» substitui o conceito de «nacionalidade» para a Irlanda e o Reino Unido e tem o mesmo significado que nos respetivos ordenamentos jurídicos desses Estados-Membros. Trata-se de uma concessão efetuada a estes Estados-Membros que constava já da Convenção de Bruxelas II. No Regulamento Bruxelas II /ter/ verifica-se uma alteração de técnica legislativa: ao invés de prever a substituição em cada um dos artigos em que ela é necessária, efetua-se a mesma numa única disposição que indica os artigos em que a substituição deve ocorrer. Atualmente, a substituição releva apenas para a Irlanda, pois o Reino Unido deixou, por via do /Brexit/, de ser um Estado-Membro. Tal significa, desde logo, que a substituição deixa de ser necessária no artigo 102.º, uma vez que a Irlanda não é um ordenamento jurídico complexo. Não se vê, igualmente, que seja necessário efetuar qualquer substituição no artigo 94.º, uma vez que ele não se refere ao elemento de conexão nacionalidade, mas sim ao princípio da não discriminação em razão da nacionalidade. Os restantes artigos ou correspondem a anteriores preceitos que já previam a substituição em sede do Regulamento Bruxelas II /bis/[fn:58] ou a artigos novos que recorrem à nacionalidade[fn:59].
 
-** Coisas a fazer :noexport:
+O conceito de “domicílio”[Sobre este conceito, cf., com maiores detalhes, @almeida2017, pp. 142 e ss. e bibliografia aí indicada.] da Irlanda é um conceito legal multifacetado, pois existem três modalidades de “domicílio”: o /domicile of origin/, o /domicile of dependence/ e o /domicile of choice/.
 
-1. [X] Interpretação autónoma e a relevância das definições
-2. [X] O conceito de decisão (n.º 1)
-3. [X] Os restantes conceitos (n.º 2)
-4. [X] Os conceitos não definidos: Matéria civil, casamento e a residência habitual
-5. [ ] A substituição do residência habitual pelo /domicile/, no caso da Irlanda (n.º 3)
+A todas as pessoas é conferido, nos termos da lei e no momento do nascimento, a todas as pessoas um /domicile of origin/ que, regra geral, corresponde ao /domicile/ do pai à data do nascimento e é imutável. A aplicabilidade do /domicile of origin/ pode ser suspensa apenas no caso de o indivíduo adquirir um /domicile of choice/ ou um /domicile of dependence/.
+
+O /domicile of dependence/ surge em relação a menores, incapazes por anomalia psíquica[fn:60].
+
+A aquisição do /domicile of choice/ exige a verificação de dois pressupostos.
+Um pressuposto factual, que consiste na verificação de um período de residência num determinado Estado. O segundo pressuposto é um pressuposto volitivo, que é definido como a intenção de permanecer nesse Estado de forma indefinida[fn:61]. Não é, por isso, fácil adquirir um /domicile of choice/.
+
+Da perspetiva dos tribunais portugueses a questão pode parecer irrelevante, porque não vão, por exemplo, aferir a sua competência internacional através do recurso ao conceito de "domicílio". Todavia a apreensão deste conceito pelos tribunais portugueses é relevante para efeitos do artigo 6.º do Regulamento Bruxelas II /ter/: se dois cônjuges têm "domicílio" na Irlanda,  os tribunais portugueses não podem recorrer às normas atributivas de competência internacional de fonte interna, porque os tribunais de um outro Estado-Membro (Irlanda) são competêntes segundo as regras do Regulamento[fn:62]; é igualmente vedado o recurso às normas atributivas de competência internacional de fonte interna nos casos em que o cônjuge requerido tenha "domicílio" na Irlanda[fn:63].
 
 * Relações com outros atos
 
@@ -123,6 +127,19 @@ O artigo 99.º, n.º 2, estabelece que as decisões em matéria de ações matri
 * Conclusão
 
 * Footnotes
+
+[fn:63] Cf. artigo 2.º, n.º 3, e 6.º, n.º 2, do Regulamento Bruxelas II /ter/.
+
+[fn:62] Os artigos 2.º, n.º 3, e 3.º, alínea /b)/, do Regulamento Bruxelas II /ter/ conferem competência internacional aos tribunais da Irlanda. O artigo 6.º, n.º 1, impede o recurso às normas de competência internacional de fonte interna.
+
+[fn:61] Uma intenção de residir num determinado Estado por um período determinado (ainda que relativamente longo) ou até à verificação de uma determinada condição  não é suficiente para a preencher o pressuposto volitivo.
+
+[fn:60] Historicamente, o /domicilie of dependence/ era atribuído também a mulheres casadas. Atualmente, a jurisprudência irlandesa afere o /domicile/ de todas as mulheres casadas de forma independente, de acordo com as regras do /domicile of origin/ ou /domicile of choice/.
+
+[fn:59] Artigos 10.º, 12.º, 13.º, 51.º e 59.º.
+
+[fn:58] Artigos 3.º, 6.º e 75.º.
+
 [fn:57] Cf., por exemplo, Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerandos n.º 41 a 43. No caso das crianças, o TJ esclareceu que a vontade relevante é a das pessoas que efetivamente a guardam e cuidam dela (/v.g./ Acórdão de 22 de dezembro de 2010, /Mercredi/, C-497/10 PPU, EU:C:2010:829, considerandos n.ºs 54 e 56).
 
 [fn:56] Cf. Acórdãos de 8 de junho de 2017, OL, C‑111/17 PPU, EU:C:2017:436, considerando n.º 51, e de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerando n.º 52.
