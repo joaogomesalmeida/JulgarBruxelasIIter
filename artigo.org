@@ -2,12 +2,12 @@
 #+AUTHOR: João Gomes de Almeida
 
 * I. Introdução
-A generalidade das normas do Regulamento Bruxelas II /ter/[fn:74] serão aplicáveis a partir do dia 1 de agosto de 2022. Este Regulamento reformula e substitui o Regulamento Bruxelas II /bis/[fn:75], porventura o regulamento mais importante em matéria de Direito Internacional Privado da família. Neste artigo, efetua-se um primeiro olhar sobre o âmbito de aplicação (II.), as definições (III.) e as relações deste Regulamento com outros atos supraestaduais (IV.).
+A generalidade das normas do Regulamento Bruxelas II /ter/[fn:74] serão aplicáveis a partir do dia 1 de agosto de 2022. Este Regulamento reformula e substitui o Regulamento Bruxelas II /bis/[fn:75], porventura o regulamento mais relevante em matéria de Direito Internacional Privado da família. Neste artigo, efetua-se um primeiro olhar sobre o âmbito de aplicação (II.), as definições (III.) e as relações deste Regulamento com outros atos supraestaduais (IV.).
 
 * II. Âmbito de aplicação
 ** A) Em razão do espaço (ou a transnacionalidade da situação)
 
-As normas do Regulamento Bruxelas II /ter/ só são aplicáveis quando a situação tenha um elemento de estraneidade. Este entendimento - que não tinha uma consagração clara no Regulamento Bruxelas II /bis/ [Sobre a questão neste Regulamento, cf. @almeida2017, pp. 71 e ss.] - pode encontrar-se hoje nos considerandos 2 a 4 do Regulamento Bruxelas II /ter/[fn:1] e é o único conforme à base habilitante do Regulamento Bruxelas II /ter/, o artigo 81.º, n.º 3, do Tratado sobre o Funcionamento da União Europeia[fn:2].
+As normas do Regulamento Bruxelas II /ter/ só são aplicáveis quando a situação tenha um elemento de estraneidade. Este entendimento - que não tinha uma consagração clara no Regulamento Bruxelas II /bis/[Sobre a questão neste Regulamento, cf. @almeida2017, pp. 71 e ss.] - pode encontrar-se hoje nos considerandos 2 a 4 do Regulamento Bruxelas II /ter/[fn:1] e é o único conforme à base habilitante do Regulamento Bruxelas II /ter/, o artigo 81.º, n.º 3, do Tratado sobre o Funcionamento da União Europeia[fn:2].
 
 As normas do Regulamento Bruxelas II /ter/ não são, por isso, aplicáveis aos litígios emergentes de situações puramente internas, isto é, situações que só possuem pontos de contacto relevantes com um único Estado soberano.
 
