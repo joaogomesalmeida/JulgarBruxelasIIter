@@ -37,11 +37,25 @@ Por força da consagração do princípio do reconhecimento automático, o qual 
 
 Pode questionar-se se o conceito de tribunal neste preceito é mais restrito do que o definido no artigo 2.º, limitando-se apenas aos tribunais /stricto sensu/. Consideramos que não. O Direito interno dos vários Estados-Membros pode estabelecer processos em que seja necessário invocar o reconhecimento a título incidental perante autoridades que apenas podem ser consideradas tribunais segundo o conceito /amplo/ adotado no artigo 2.º do Regulamento. É, pensa-se, o que sucede no Direito português quando processo de inventário decorra perante cartório notarial.
 
-Suscita igualmente dúvidas como deve ser tramitado este reconhecimento a título incidental. Duas posições surgiram, no âmbito do Regulamento Bruxelas II /bis/: /(i)/ a tramitação é a estabelecida no Regulamento para a concessão de declaração de executoriedade, por força da aplicação analógica da remissão expressa prevista para ação de reconhecimento ou não reconhecimento a título principal[Cf., em sede de Regulamento Bruxelas I /bis/, cujas normas relevantes são substancialmente idênticas às do Regulamento Bruxelas II /bis/, @magnus2012a, p. 554-555.]; ou /(ii)/ é subsidiariamente aplicável a tramitação prevista no Direito interno do Estado-Membro requerido[Cf.  @baratta2008, p. 193;  @corneloup2013, p. 379; e *incluir LLP 2019 e MTS 2022*.]. Aderimos a esta última posição, pois o reconhecimento a título incidental foi consagrado por razões de simplicidade[@borras1998, p. 50, ponto 66; e @rauscher2015, p. 264.], dificilmente compatíveis com a posição que advoga uma identidade de tramitação com o pedido de decisão de não reconhecimento.
+Suscita igualmente dúvidas como deve ser tramitado este reconhecimento a título incidental. Duas posições surgiram, no âmbito do Regulamento Bruxelas II /bis/: /(i)/ a tramitação é a estabelecida no Regulamento para a concessão de declaração de executoriedade, por força da aplicação analógica da remissão expressa prevista para ação de reconhecimento ou não reconhecimento a título principal[Cf., em sede de Regulamento Bruxelas I, cujas normas relevantes são substancialmente idênticas às do Regulamento Bruxelas II /bis/, @magnus2012a, p. 554-555.]; ou /(ii)/ é subsidiariamente aplicável a tramitação prevista no Direito interno do Estado-Membro requerido[Cf.  @baratta2008, p. 193;  @corneloup2013, p. 379; e *incluir LLP 2019 e MTS 2022*.]. Aderimos a esta última posição, pois o reconhecimento a título incidental foi consagrado por razões de simplicidade[@borras1998, p. 50, ponto 66; e @rauscher2015, p. 264.], dificilmente compatíveis com a posição que advoga uma identidade de tramitação com o pedido de decisão que determine não existirem os fundamentos de recusa do reconhecimento.
 
-Pergunta se a decisão se a decisão de reconhecimento ou não reconhecimento da decisão estrangeira, quando proferida a título incidental, constitui ou não caso julgado fora do processo respetivo. Subscreve-se o entendimento de que a questão deve ser resolvida de acordo com as normas de Direito vigentes no Estado-Membro requerido *Citar LLP 2019 e MTS 2022*. Considera-se que as normas do Regulamento Bruxelas II /ter/ não dão resposta a esta questão, pelo que, por força do princípio da subsidiariedade, a resposta deve procurar-se no restante Direito vigente no Estado-Membro requerido[fn:12]. Quando Portugal seja o Estado-Membro requerido as decisões de reconhecimento ou de não reconhecimento proferidas a título incidental não constituem, em regra, caso julgado fora do processo respetivo[fn:11].
+Pergunta-se a decisão se a decisão de reconhecimento ou não reconhecimento da decisão estrangeira, quando proferida a título incidental, constitui ou não caso julgado fora do processo respetivo. Subscreve-se o entendimento de que a questão deve ser resolvida de acordo com as normas de Direito vigentes no Estado-Membro requerido *Citar LLP 2019 e MTS 2022*. Considera-se que as normas do Regulamento Bruxelas II /ter/ não dão resposta a esta questão, pelo que, por força do princípio da subsidiariedade, a resposta deve procurar-se no restante Direito vigente no Estado-Membro requerido. Quando Portugal seja o Estado-Membro requerido as decisões de reconhecimento ou de não reconhecimento proferidas a título incidental não constituem, em regra, caso julgado fora do processo respetivo[fn:11].
+
+Salienta-se, por fim, que se tiver sido apresentado um pedido de decisão que determine não haver fundamentos para recusar o reconhecimento a que se referem os artigos 38.º e 39.º (cf. artigo 30.º, n.º 3), ou um pedido de decisão que determine a recusa do reconhecimento com base num desses fundamentos (cf. artigo 40.º, n.º 1), o tribunal perante o qual o reconhecimento foi incidentalmente invocado pode suspender, total ou parcialmente, a instância[Cf. artigo 33.º, alínea /b)/, do Regulamento Bruxelas II /ter/. Trata-se de uma solução nova. Advogou-se, em sede do Regulamento Bruxelas /bis/, que o princípio da subsidiariedade apontava no sentido de que a questão deveria ser resolvida segundo o Direito vigente no Estado-Membro requerido (@almeida2017, p. 510).].
 
 *** Valor da decisão como título de registo
+
+O n.º 2 do artigo 30.º do Regulamento Bruxelas II /ter/ estende o princípio do reconhecimento automático à atualização dos registos do estado civil de um Estado-Membro com base numa decisão de divórcio, separação judicial ou anulação do casamento proferida noutro Estado-Membro. Trata-se de uma consagração importante pois, em muito casos, a atualização dos registos do estado civil é um dos efeitos mais pretendidos pelos interessados no reconhecimento da decisão estrangeira que decretou o divórcio, separação judicial ou anulação do casamento[Cf. @borras1998, p. 49, ponto 63; @corneloup2013, p. 371; e @rauscher2015, p. 265.].
+
+O regime delineado por este preceito apenas é aplicável às decisões de divórcio, separação ou anulação do casamento, proferidas noutro Estado-Membro e das quais já não caiba recurso, segundo a legislação desse Estado-Membro. Esta solução justifica-se à luz da fé pública dos registos do estado civil. Mal se compreenderia que uma decisão que se encontra ou pode ainda ser impugnada pudesse justificar uma alteração dos registos do estado civil, pela situação de incerteza que tal acarretaria[Cf., neste sentido, @helms2001, p. 260; @schack2002, p. 51; @corneloup2013, p. 370; e @rauscher2015, p. 266.].
+
+Apesar de o preceito não distinguir entre recursos ordinários e extraordinários, entende-se que a intenção legislativa é a de exigir o trânsito em julgado da decisão estrangeira, o mesmo é dizer, exigir que a mesma não fosse já suscetível de recurso ordinário[O preceito mantém-se substancialmente inalterado desde a Convenção de Bruxelas II. No relatório explicativo desta Convenção (@borras1998, pp. 49-50, ponto 63) afirma-se que "Deve observar-se que é necessário tratar-se de uma decisão final, ou seja, não suscetível de recurso ordinário segundo a lei do Estado de origem".].
+
+*** Pedido de declaração judicial de que não existem fundamentos de recusa do reconhecimento ou pedido de recusa de reconhecimento
+
+Sem prejuízo da adoção do princípio do reconhecimento automático e da possibilidade de invocar o reconhecimento a título incidental, o artigo 30.º, n.º 3, do Regulamento Bruxelas II /bis/ estabelece que qualquer parte interessada pode, em conformidade com os procedimentos previstos nos artigos 59.º a 62.º, bem como, se for caso disso, na secção 5 do presente capítulo e no capítulo VI, requerer que seja adotada uma decisão que determine /não/ existirem os fundamentos de recusa do reconhecimento a que se referem os artigos 38.º e 39.º.
+
+Esta nova formulação parece ser mais restrita do que a prevista no artigo 21.º, n.º 3, do Regulamento Bruxelas II /bis/ onde se estabelece que qualquer parte interessada pode requerer, nos termos dos procedimentos previstos na secção 2 do presente capítulo, /o reconhecimento ou o não-reconhecimento/ da decisão. Porém, a diferença é apenas de técnica legislativa, uma vez que o artigo 40.º, n.º 1, do Regulamento Bruxelas II /ter/ prevê que os processos previstos nos artigos 59.º a 62.º, bem como, se for caso disso, na secção 5 do presente capítulo e no capítulo VI, são aplicáveis em conformidade aos pedidos de recusa de reconhecimento. Em suma, o Regulamento Bruxelas II /ter/, com esta alteração, adota a técnica legislativa do Regulamento Bruxelas I /bis/[fn:12].
 
 
 
@@ -66,14 +80,14 @@ Pergunta se a decisão se a decisão de reconhecimento ou não reconhecimento da
 
 | RBII /ter/ | RB II /bis/     | Observações |
 |------------+-----------------+-------------|
-| 30.º/1 e 2 | 21.º /1 e 2     |             |
+| 30.º/1 e 2 | 21.º /1 e 2     | feito       |
 | 30.º/3 e 4 | 21.º/3          |             |
-| 30.º/5     | 21.º/4          |             |
+| 30.º/5     | 21.º/4          | feito       |
 | 31.º/1     | 37.º/1 e 45.º/1 |             |
 | 31.º/2 e 3 | 45.º/2          |             |
 | 32.º       | 38.º            |             |
-| 33.º/a)    | 27.º/1          |             |
-| 33.º/b)    | -               |             |
+| 33.º/a)    | 27.º/1          | feito       |
+| 33.º/b)    | -               | feito       |
 | 36.º       | 39.º            |             |
 | 37.º       | 43.º            |             |
 | 38.º       | 22.º            |             |
@@ -97,8 +111,7 @@ Pergunta se a decisão se a decisão de reconhecimento ou não reconhecimento da
 | 75.º       | 51.º            |             |
 
 * Footnotes
-
-[fn:12] Entendemos que a mesma solução se deve impor para uma questão conexa: como deve atuar o tribunal do Estado-Membro requerido em que o reconhecimento foi invocado incidentalmente se estiver pendente noutro tribunal do Estado-Membro requerido uma ação judicial de reconhecimento ou de não reconhecimento da mesma decisão estrangeira? Esta questão deve também ser resolvida segundo o Direito vigente no Estado-Membro requerido, sendo que, no caso do Direito português, o tribunal onde o reconhecimento for invocado a título incidental pode, em regra, ordenar a suspensão da instância (artigo 272.º do CPC).
+[fn:12] Cf. artigos 36.º, n.º 2, e 45.º, n.º 4, do Regulamento Bruxelas II /bis/.
 
 [fn:11] Artigo 91.º do Código de Processo Civil (CPC).
 
