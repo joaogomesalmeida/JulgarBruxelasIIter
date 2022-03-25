@@ -53,14 +53,25 @@ Apesar de o preceito não distinguir entre recursos ordinários e extraordinári
 
 *** Pedido de declaração judicial de que não existem fundamentos de recusa do reconhecimento ou pedido de recusa de reconhecimento
 
-Sem prejuízo da adoção do princípio do reconhecimento automático e da possibilidade de invocar o reconhecimento a título incidental, o artigo 30.º, n.º 3, do Regulamento Bruxelas II /bis/ estabelece que qualquer parte interessada pode, em conformidade com os procedimentos previstos nos artigos 59.º a 62.º, bem como, se for caso disso, na secção 5 do presente capítulo e no capítulo VI, requerer que seja adotada uma decisão que determine /não/ existirem os fundamentos de recusa do reconhecimento a que se referem os artigos 38.º e 39.º.
+Sem prejuízo da adoção do princípio do reconhecimento automático e da possibilidade de invocar o reconhecimento a título incidental, o artigo 30.º, n.º 3, do Regulamento Bruxelas II /bis/ estabelece que qualquer parte interessada pode, em conformidade com os procedimentos previstos nos artigos 59.º a 62.º, bem como, se for caso disso, na secção 5 do presente capítulo e no capítulo VI, requerer que seja adotada uma decisão que determine /não/ existirem os fundamentos de recusa do reconhecimento a que se referem os artigos 38.º e 39.º[fn:13].
 
 Esta nova formulação parece ser mais restrita do que a prevista no artigo 21.º, n.º 3, do Regulamento Bruxelas II /bis/ onde se estabelece que qualquer parte interessada pode requerer, nos termos dos procedimentos previstos na secção 2 do presente capítulo, /o reconhecimento ou o não-reconhecimento/ da decisão. Porém, a diferença é apenas de técnica legislativa, uma vez que o artigo 40.º, n.º 1, do Regulamento Bruxelas II /ter/ prevê que os processos previstos nos artigos 59.º a 62.º, bem como, se for caso disso, na secção 5 do presente capítulo e no capítulo VI, são aplicáveis em conformidade aos pedidos de recusa de reconhecimento. Em suma, o Regulamento Bruxelas II /ter/, com esta alteração, adota a técnica legislativa do Regulamento Bruxelas I /bis/[fn:12].
+
+O conceito de parte interessada deve ser interpretado em sentido amplo,  não se reconduzindo exclusivamente aos ex-cônjuges. Para que um terceiro seja considerado uma parte interessada e tenha legitimidade para intentar a ação de reconhecimento ou de não reconhecimento da decisão estrangeira parece necessário que do reconhecimento ou não reconhecimento da decisão resulte uma afetação da sua esfera jurídica[Cf., neste sentido, @corneloup2013, p. 375; e @rauscher2015, p. 269.]. O conceito de parte interessada pode também incluir autoridades públicas[Cf., neste sentido, @borras1998, p. 50, ponto 65; @helms2001, p. 261; @magnus2012, p. 260; @corneloup2013, p. 375; @pinheiro2019b, p. *XX*; e *MTS 2022*], como o Ministério Público ou as autoridades públicas responsáveis pelo registo civil, em proteção de um interesse público[fn:14].
 
 
 
 ** Limites ao reconhecimento
 *** Proibição do controlo de competência do tribunal de origem
+
+O Regulamento Bruxelas II /ter/ consagra, no artigo 68.º, a proibição do controlo de competência do tribunal de origem. O tribunal do Estado-Membro requerido não pode verificar a competência do tribunal do Estado-Membro de origem; tal significa que o desrespeito pelas normas atributivas de competência internacional consagradas no Regulamento Bruxelas II bis e até a utilização de normas atributivas de competência internacional exorbitantes não constitui fundamento para a recusa de reconhecimento de uma decisão, proferida por um tribunal de um Estado-Membro, que decrete o divórcio, a separação judicial ou a anulação do casamento.
+
+O principal fundamento apresentado para a consagração da proibição do controlo de competência do Estado-Membro de origem é o princípio da confiança mútua[fn:15],o qual é reforçado pela unificação, em larga medida, das normas atributivas de competência internacional. Esta uniformização facilita o abandono do controlo da competência do tribunal de origem, uma vez que os tribunais dos Estados-Membros determinam se são ou não competentes para um divórcio transnacional através da aplicação das mesmas normas de competência internacional. Apesar de a unificação não ser exaustiva[fn:16], considera-se os objetivos do Regulamento e o carácter verdadeiramente residual da remissão para as restantes normas vigentes no Direito de cada Estado-Membro permitem justificar esta solução de proibição do controlo de competência do tribunal de origem[Cf., em sede de Regulamento Bruxelas II /bis/ e com maiores detalhes, @almeida2017, p. 524 e ss.].
+
+A proibição de controlo de competência do tribunal de origem pode também ser justificada como contraponto ao regime previsto no artigo 18.º do Regulamento Bruxelas II /ter/, que estabelece a obrigação de o tribunal de origem controlar oficiosamente a sua própria competência. A opção do legislador da União Europeia parece ter sido a de que apenas os tribunais do Estado-Membro onde é colocado o litígio transnacional podem aferir da competência internacional para julgar o mesmo. A proibição do controlo da competência do tribunal de origem pode ser entendida e justificada como a concretização desta opção em sede de reconhecimento de decisões estrangeiras[fn:17].
+
+*ESCREVER EXCEÇÕES*
+
 *** Proibição de controlo do mérito da decisão objeto de reconhecimento
 *** Fundamentos de recusa
 **** Considerações gerais
@@ -78,39 +89,50 @@ Esta nova formulação parece ser mais restrita do que a prevista no artigo 21.�
 - 64.º a 68.º
 - 69.º a 75.º
 
-| RBII /ter/ | RB II /bis/     | Observações |
-|------------+-----------------+-------------|
-| 30.º/1 e 2 | 21.º /1 e 2     | feito       |
-| 30.º/3 e 4 | 21.º/3          |             |
-| 30.º/5     | 21.º/4          | feito       |
-| 31.º/1     | 37.º/1 e 45.º/1 |             |
-| 31.º/2 e 3 | 45.º/2          |             |
-| 32.º       | 38.º            |             |
-| 33.º/a)    | 27.º/1          | feito       |
-| 33.º/b)    | -               | feito       |
-| 36.º       | 39.º            |             |
-| 37.º       | 43.º            |             |
-| 38.º       | 22.º            |             |
-| 40.º       | -               |             |
-| 59.º       | -               |             |
-| 60.º       | -               |             |
-| 61.º       | -               |             |
-| 62.º       | -               |             |
-| 64.º       | -               |             |
-| 65.º       | 46.º            |             |
-| 66.º       | -               |             |
-| 67.º       | -               |             |
-| 68.º       | -               |             |
-| 69.º       | 24.º            |             |
-| 70.º       | 25.º            |             |
-| 71.º       | 26.º            |             |
-| 72.º       | -               |             |
-| 73.º       | 49.º            |             |
-| 74.º/1     | 50.º            |             |
-| 74.º/2     | -               |             |
-| 75.º       | 51.º            |             |
+| RBII /ter/ | RB II /bis/     | Observações  |
+|------------+-----------------+--------------|
+| 30.º/1 e 2 | 21.º /1 e 2     | feito        |
+| 30.º/3 e 4 | 21.º/3          |              |
+| 30.º/5     | 21.º/4          | feito        |
+| 31.º/1     | 37.º/1 e 45.º/1 |              |
+| 31.º/2 e 3 | 45.º/2          |              |
+| 32.º       | 38.º            |              |
+| 33.º/a)    | 27.º/1          | feito        |
+| 33.º/b)    | -               | feito        |
+| 36.º       | 39.º            |              |
+| 37.º       | 43.º            |              |
+| 38.º       | 22.º            |              |
+| 40.º       | -               | n.º 1 feito; |
+| 59.º       | -               |              |
+| 60.º       | -               |              |
+| 61.º       | -               |              |
+| 62.º       | -               |              |
+| 64.º       | -               |              |
+| 65.º       | 46.º            |              |
+| 66.º       | -               |              |
+| 67.º       | -               |              |
+| 68.º       | -               |              |
+| 69.º       | 24.º            |              |
+| 70.º       | 25.º            |              |
+| 71.º       | 26.º            |              |
+| 72.º       | -               |              |
+| 73.º       | 49.º            |              |
+| 74.º/1     | 50.º            |              |
+| 74.º/2     | -               |              |
+| 75.º       | 51.º            |              |
 
 * Footnotes
+
+[fn:17] A fundamentação da proibição do controlo da competência do tribunal de origem com base no princípio da confiança mútua, unificação (quase integral) das normas de competência internacional e no controlo da competência apenas pelos tribunais do Estado-Membro do foro parece ter sido perfilhada pelo TJ, em sede de Regulamento Bruxelas II /bis/, no Acórdão de 15 de julho de 2010, /Purrucker/, C-256/09, EU:C:2010:437, considerandos n.ºs 72 a 75. Apesar de o Acórdão ter sido proferido em matéria de responsabilidade parental, não existem particularidades que impeçam a sua transposição para as ações matrimoniais.
+
+[fn:16] Cf. artigo 6.º do Regulamento Bruxelas II /ter/.
+
+[fn:15] Cf. considerandos n.ºs 54 e 55 do Regulamento Bruxelas II /ter/.
+
+[fn:14] Por exemplo, nos casos em que a autoridade pública considere verificado um dos fundamentos de não reconhecimento da decisão estrangeira.
+
+[fn:13] Doravante designada abreviadamente, por razões de facilidade de leitura, de ação de reconhecimento.
+
 [fn:12] Cf. artigos 36.º, n.º 2, e 45.º, n.º 4, do Regulamento Bruxelas II /bis/.
 
 [fn:11] Artigo 91.º do Código de Processo Civil (CPC).
