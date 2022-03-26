@@ -70,7 +70,7 @@ O principal fundamento apresentado para a consagração da proibição do contro
 
 A proibição de controlo de competência do tribunal de origem pode também ser justificada como contraponto ao regime previsto no artigo 18.º do Regulamento Bruxelas II /ter/, que estabelece a obrigação de o tribunal de origem controlar oficiosamente a sua própria competência. A opção do legislador da União Europeia parece ter sido a de que apenas os tribunais do Estado-Membro onde é colocado o litígio transnacional podem aferir da competência internacional para julgar o mesmo. A proibição do controlo da competência do tribunal de origem pode ser entendida e justificada como a concretização desta opção em sede de reconhecimento de decisões estrangeiras[fn:17].
 
-*ESCREVER EXCEÇÕES*
+Não obstante, foram consagradas (contadas) exceções ao princípio da proibição do controlo de competência do tribunal de origem. Assim, resulta da definição do conceito de decisão (artigo 2.º, n.º 1) que só beneficiam do regime de reconhecimento do Regulamento as medidas provisórias e cautelares proferidas por um tribunal competente para o mérito da causa ou no contexto de uma decisão de regresso da criança; os tribunais do Estado-Membro requerido terão de aferir a competência do tribunal do Estado-Membro para determinar se as medidas provisórias e cautelares decretadas beneficiam ou não do regime de reconhecimento. Em matéria de reconhecimento de atos autênticos e acordos em matéria matrimonial consagrou-se, como veremos /infra/, a competência indireta como pressuposto do regime de reconhecimento (artigo 64.º). Por fim, em sede de relações com outros atos, estabelece-se que as decisões em matéria matrimonial proferidas por tribunais de Estados-Membros ao abrigo da Convenção de 6 de fevereiro de 1931 entre a Dinamarca, a Finlândia, a Islândia, a Noruega e a Suécia relativa às disposições de Direito Internacional Privado em matéria de casamento, adoção e guarda de menores e o respetivo protocolo final só beneficiam do regime de reconhecimento do Regulamento se o tribunal que proferiu a decisão tivesse competência internacional para julgar a ação matrimonial nos termos das regras do Regulamento Bruxelas II /ter/ (artigo 94.º, n.º 5)[fn:18].
 
 *** Proibição de controlo do mérito da decisão objeto de reconhecimento
 *** Fundamentos de recusa
@@ -78,7 +78,7 @@ A proibição de controlo de competência do tribunal de origem pode também ser
 **** Ordem pública internacional
 **** Garantia do direito de defesa
 **** Incompatibilidade de decisões
-* Reconhecimento de atos autênticos e acordos em material matrimonial
+* Reconhecimento de atos autênticos e acordos em matéria matrimonial
 * Conclusões
 
 * Artigos a comentar :no export:
@@ -112,7 +112,7 @@ A proibição de controlo de competência do tribunal de origem pode também ser
 | 66.º       | -               |              |
 | 67.º       | -               |              |
 | 68.º       | -               |              |
-| 69.º       | 24.º            |              |
+| 69.º       | 24.º            | feito        |
 | 70.º       | 25.º            |              |
 | 71.º       | 26.º            |              |
 | 72.º       | -               |              |
@@ -122,6 +122,7 @@ A proibição de controlo de competência do tribunal de origem pode também ser
 | 75.º       | 51.º            |              |
 
 * Footnotes
+[fn:18] Sobre este preceito cf. o nosso artigo mencionada na nota 1.
 
 [fn:17] A fundamentação da proibição do controlo da competência do tribunal de origem com base no princípio da confiança mútua, unificação (quase integral) das normas de competência internacional e no controlo da competência apenas pelos tribunais do Estado-Membro do foro parece ter sido perfilhada pelo TJ, em sede de Regulamento Bruxelas II /bis/, no Acórdão de 15 de julho de 2010, /Purrucker/, C-256/09, EU:C:2010:437, considerandos n.ºs 72 a 75. Apesar de o Acórdão ter sido proferido em matéria de responsabilidade parental, não existem particularidades que impeçam a sua transposição para as ações matrimoniais.
 
