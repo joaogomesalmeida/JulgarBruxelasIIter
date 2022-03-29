@@ -164,6 +164,21 @@ Por fim, salienta-se que não é necessário que a decisão tenha sido já objet
 
 * Reconhecimento de atos autênticos e acordos em matéria matrimonial
 
+Em matéria matrimonial, o reconhecimento de atos autênticos e acordos registados é a principal novidade do Regulamento Bruxelas II /ter/. Este novo regime de reconhecimento visa incluir no âmbito do Regulamento, respondendo assim a um fenómeno de "desjudicialização" do divórcio que ocorreu na União Europeia[@shuilleabhain2021, pp. 120-121, informa que é possível obter um divórcio extrajudicial em Bélgica, Espanha, Eslóvenia, Estónia, França, Grécia, Itália, Letónia, Portugal e Roménia. Uma breve comparação dos direitos materiais destes Estados pode encontrar-se em @lazic2021, pp. 160 e ss..].
+
+Alguns destes divórcios extrajudiciais eram enquadráveis no regime de reconhecimento de decisões do Regulamento Bruxelas II /bis/, pois a autoridade que neles intervinha era subsumível ao conceito de tribunal do Regulamento. A questão era, no entanto, controversa na doutrina[Cf. @almeida2017, pp. 47 e ss.]. As dúvidas mantiveram-se quando o Tribunal de Justiça considerou que o Regulamento Roma III[fn:56] e o Regulamento Bruxelas II /bis/ visavam apenas os divórcios decretados quer por um tribunal estatal quer por uma autoridade pública ou sob seu controlo[fn:57].
+
+O Regulamento Bruxelas II /ter/ visa ultrapassar estas dúvidas, introduzindo um regime de reconhecimento aplicável aos divórcios extrajudiciais. Porém, ao não definir o conceito de "divórcio privado", subsistem dúvidas de enquadramento.  Alguns autores definem "divórcios privados" como aqueles em que não há uma intervenção /constitutiva/ de uma autoridade[Cf., neste sentido, @gonzalezbeilfuss2020, p. 312; e @gonzalezbeilfuss2021a, p. 97. @lazic2021, pp. 165-166, parecem preferir distinguir os divórcios privados pelo documento em que são vertidos ou registados.]. Pela nossa parte preferimos distinguir recorrendo ao conceito de autoridade. No âmbito de aplicação material do Regulamento Bruxelas II /ter/ incluem-se agora, adicionalmente, divórcios e separações judiciais em que há uma intervenção de uma autoridade (seja ela constitutiva ou não); os divórcios /puramente/ privados, isto é, os divórcios efetuados sem necessidade da presença de qualquer autoridade, continuam excluídos do âmbito de aplicação material do Regulamento. Não obstante, permanecem dúvidas de enquadramento de divórcios proferidos por autoridades não jurisdicionais: deve, por exemplo, o divórcio ou separação judicial decretada pelo conservador do registo civil português ser enquadrado no regime de reconhecimento de decisões (como era no Regulamento Bruxelas II /bis/) ou no novo regime de reconhecimento de atos autênticos e acordos registados[Cf., em sentido semelhante, @gonzalezbeilfuss2021a, p. 103, que adverte que distinguir entre decisões e atos autênticos não será fácil.]?
+
+Este novo regime introduz dois novos pressupostos de reconhecimento, a saber: /(i)/ o ato autêntico foi exarado ou o acordo foi registado num Estado cujos tribunais teriam competência internacional nos termos do capítulo II (artigos 3.º a 6.º do Regulamento Bruxelas II /ter/)[fn:58]; e /(ii)/ o ato autêntico e o acordo registado tem efeito jurídico vinculativo no Estado-Membro de origem[fn:59] [@lazic2021, p. 167, consideram que existe uma terceira condição: a comunicação, prevista no artigo 103.º do Regulamento, pelo respetivo Estado-Membro de que aquela autoridade pode decretar divórcios (ou separações judiciais); e, aparentemente no mesmo sentido, @gonzalezbeilfuss2021a, p. 101. Sem contestar que a comunicação dá um elevado grau de certeza, entende-se que mesmo que esta não seja feita, se poderá continuar a aplicar o regime de reconhecimento.].
+
+O primeiro pressuposto redunda no controlo da competência da autoridade de origem. Não sendo órgãos jurisdicionais, podem estas autoridades considerar que não estão vinculadas às normas atributivas de competência internacional do Regulamento Bruxelas II /ter/. Deste modo, e ao abrigo do princípio da livre escolha de notário, poderia o notário francês decretar o divórcio de dois cônjuges nacionais portugueses, com residência habitual na Alemanha quando, segundo o Regulamento, os tribunais franceses seriam internacionalmente incompetentes. Para evitar, pensa-se, este /forum shopping/ da autoridade não jurisdicional, o Regulamento Bruxelas II /ter/ estabelece como pressuposto que os atos autênticos e os acordos registados em matéria de divórcio e separação judicial só beneficiam do regime de reconhecimento nos casos em que o tenham sido exarados ou registado num Estado-Membros cujos tribunais seriam internacionalmente competentes para decretar esse mesmo divórcio ou separação judicial. Concorda-se com esta solução pois entende-se, como se referiu /supra/, que a proibição do controlo da competência do tribunal ou autoridade de origem se justifica à luz do princípio da confiança mútua num contexto de uniformização das normas de competência internacional, especialmente atendendo que não é admitida a celebração de pactos de jurisdição[Cf., discordando da solução adotada, @shuilleabhain2021, p. 122.].
+
+O segundo pressuposto é o de que o ato autêntico ou o acordo registado produz, no Estado-Membro de origem, o efeito jurídico de dissolução ou enfraquecimento do vínculo matrimonial.
+
+Estes pressupostos são controlados pelo Estado-Membro de origem. Compete ao tribunal ou autoridade competente emitir uma certidão para o ato autêntico ou acordo, mas essa certidão só deve ser emitida depois de verificado que /(i)/ os tribunais do Estado-Membro de origem seriam internacionalmente competentes para decretar o divórcio ou separação judicial nos termos dos artigos 3.º a 6.º do Regulamento Bruxelas II /ter/; e /(ii)/ o ato autêntico ou acordo registado é apto a produzir o efeito jurídico de dissolução ou enfraquecimento do casamento, segundo o Direito do Estado-Membro de origem[fn:60].
+
+Secção 1 (artigos 30.º a 41.º)
 
 * Conclusões
 
@@ -208,6 +223,17 @@ Por fim, salienta-se que não é necessário que a decisão tenha sido já objet
 | 75.º       | 51.º            | feito       |
 
 * Footnotes
+
+[fn:60] Cf. artigo 65.º, n.º 2, do Regulamento Bruxelas II /ter/.
+
+[fn:59] Cf. artigo 65.º do Regulamento Bruxelas II /ter/.
+
+[fn:58] Cf. artigo 64.º do Regulamento Bruxelas II /ter/.
+
+[fn:57] Acórdão de 20 de dezembro de 2017, /Sahyouni/, C-372/16, EU:C:2017:988, considerandos n.ºs 39 e 40.
+
+[fn:56] Regulamento (UE) n.º 1259/2010 do Conselho, de 20 de Dezembro de 2010, que cria uma cooperação reforçada no domínio da lei aplicável em matéria de divórcio e separação judicial, publicado no JO L 343 de 29 de dezembro de 2010.
+
 [fn:55] Cf. artigso 61.º, 62.º e 103.º, n.º 1, alínea /e)/, do Regulamento Bruxelas II /ter/.
 
 [fn:54] Cf. artigo 60.º do Regulamento Bruxelas II /ter/.
