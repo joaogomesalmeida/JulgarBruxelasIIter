@@ -59,7 +59,17 @@ Esta nova formulação parece ser mais restrita do que a prevista no artigo 21.�
 
 O conceito de parte interessada deve ser interpretado em sentido amplo,  não se reconduzindo exclusivamente aos ex-cônjuges. Para que um terceiro seja considerado uma parte interessada e tenha legitimidade para intentar a ação de reconhecimento ou de não reconhecimento da decisão estrangeira parece necessário que do reconhecimento ou não reconhecimento da decisão resulte uma afetação da sua esfera jurídica[Cf., neste sentido, @corneloup2013, p. 375; e @rauscher2015, p. 269.]. O conceito de parte interessada pode também incluir autoridades públicas[Cf., neste sentido, @borras1998, p. 50, ponto 65; @helms2001, p. 261; @magnus2012, p. 260; @corneloup2013, p. 375; @pinheiro2019b, p. 159; e *MTS 2022*], como o Ministério Público ou as autoridades públicas responsáveis pelo registo civil, em proteção de um interesse público[fn:14]. Apesar disso, assinala-se que, segundo o considerando n.º 54 do Regulamento Bruxelas II /ter/, cabe ao direito do Estado-Membro requeridodeterminar quem pode ser considerado parte interessada e se os fundamentos de recusa de reconhecimento carecem ou não de alegação pelas partes[fn:40].
 
+Cada Estado-Membro comunica quais são os tribunais competentes para apreciar as ações de reconhecimento ou não reconhecimento[fn:48], sendo a competência em razão do território determinada segundo o Direito processual vigente em cada Estado-Membro[fn:49].
+
+O pedido deve ser acompanhado dos documentos indicados, respetivamente, nos artigos 36.º (ação de reconhecimento)[fn:50] e 59.º (ação de não reconhecimento) do Regulamento Bruxelas II /ter/. A principal diferença parece ser a de que, na ação de não reconhecimento, é suficiente a apresentação de uma mera cópia da decisão, não sendo necessário que esta cumpra os requisitos de autenticidade da lei do Estado-Membro de origem[Solução semelhante à adotada no artigo 47.º do Regulamento Bruxelas I /bis/ que não deixa de suscitar dúvidas, pois a decisão a reconhecer é o objeto do ação. Cf., neste sentido, @magnus2016a, p. 956.].
+
+Caso o requerente tenha beneficiado, no processo que correu termos no Estado-Membro de origem, de assistência judiciária ou de isenção de preparos e custas, o Regulamento concede-lhe, no contexto das ações de reconhecimento e de não reconhecimento, a assistência judiciária mais favorável ou a isenção mais ampla prevista na lei do Estado-Membro requerido[fn:51]. Visando a redução de obstáculos de cariz económico, estabelece-se que não pode ser exigida qualquer caução ou depósito, seja qual for a sua designação, ao requerente das ações de reconhecimento ou de não reconhecimento, com fundamento na sua qualidade de estrangeiro ou na falta de residência habitual no Estado-Membro requerido[fn:52].
+
 *Abordar tramitação.* 59.º a 62.º
+
+30.º/3 Qualquer parte interessada pode, em conformidade com os procedimentos previstos nos artigos 59.o a 62.o, bem como, se for caso disso, na secção 5 do presente capítulo [arts. 69.º a 75.º] e no capítulo VI [arts. 85.º a 91.º], requerer que seja adotada uma decisão que determine não existirem os fundamentos de recusa do reconhecimento a que se referem os artigos 38.o e 39.o.
+
+40/1: Os processos previstos nos artigos 59.o a 62.o, bem como, se for caso disso, na secção 5 do presente capítulo e no capítulo VI, são aplicáveis em conformidade aos pedidos de recusa de reconhecimento.
 
 *** Documentos a apresentar
 
@@ -141,7 +151,9 @@ Não constitui uma aceitação inequívoca da decisão por parte do cônjuge req
 
 **** Incompatibilidade com outra decisão, ato autêntico ou acordo registado
 
-O último fundamento de recusa de reconhecimento de decisões proferidas por tribunais de outros Estados-Membros que decretem o divórcio, a separação judicial ou a anulação do casamento assenta na incompatibilidade com outra decisão, ato autêntico ou acordo registado[fn:47]. A decisão estrangeira não será reconhecida no Estado-Membro requerido se for incompatível com uma outra decisão proferida num processo entre as mesmas partes por um tribunal do Estado-Membro requerido[fn:34] ou por um tribunal de outro Estado-Membro ou de um Estado terceiro[fn:35]. Quando a incompatibilidade seja com uma decisão proferida por um tribunal de outro Estado-Membro ou de um Estado terceiro, o reconhecimento só será recusado se, adicionalmente, a decisão proferida pelo tribunal de outro Estado-Membro ou de um Estado terceiro for anterior e reunir as condições para ser reconhecida no Estado-Membro requerido[fn:36].
+O último fundamento de recusa de reconhecimento de decisões proferidas por tribunais de outros Estados-Membros que decretem o divórcio, a separação judicial ou a anulação do casamento assenta na incompatibilidade com outra decisão, ato autêntico ou acordo registado. Apesar de o artigo 38.º se referir expressamente apenas às decisões, entende-se que, em matéria matrimonial, se tem de atender também aos casos de "desjudicialização", isto é, as situações em que, por exemplo, o divórcio se efetua perante de um notário, sem que este possa ser considerado um tribunal e, consequentemente, sem que haja uma decisão, tal como definida no artigo 2.º, n.º 1, do Regulamento Bruxelas II /ter/. Não o fazer conduziria a resultados absurdos: imagine-se que se pretende reconhecer em França uma decisão de separação judicial proferida em Portugal. Sucede, porém, que o divórcio já tinha sido decretado em França, perante um notário. Se dermos primazia ao elemento literal, a decisão de separação judicial portuguesa deve ser reconhecida em França, pois não há /decisão/ (mais sim um ato autêntico) com ela incompatível, apesar de o casamento já se encontrar dissolvido naquele País[fn:47]. De qualquer modo, e apenas por conveniência e facilidade de exposição e leitura, seguir-se-á tendo por referência a incompatibilidade de decisões.
+
+A decisão estrangeira não será reconhecida no Estado-Membro requerido se for incompatível com uma outra decisão proferida num processo entre as mesmas partes por um tribunal do Estado-Membro requerido[fn:34] ou por um tribunal de outro Estado-Membro ou de um Estado terceiro[fn:35]. Quando a incompatibilidade seja com uma decisão proferida por um tribunal de outro Estado-Membro ou de um Estado terceiro, o reconhecimento só será recusado se, adicionalmente, a decisão proferida pelo tribunal de outro Estado-Membro ou de um Estado terceiro for anterior e reunir as condições para ser reconhecida no Estado-Membro requerido[fn:36].
 
 Existem assim dois requisitos comuns (identidade de partes e incompatibilidade) e dois requisitos específicos (prioridade temporal e condições de reconhecimento), aplicáveis quando o confronto seja com uma decisão proferida por um tribunal de outro Estado-Membro ou de um Estado terceiro.
 
@@ -178,7 +190,7 @@ Por fim, salienta-se que não é necessário que a decisão tenha sido já objet
 | 36.º       | 39.º            | feito        |
 | 37.º       | 43.º            | feito        |
 | 38.º       | 22.º            | feito        |
-| 40.º       | -               | n.º 1 feito; |
+| 40.º       | -               | feito;       |
 | 59.º       | -               |              |
 | 60.º       | -               |              |
 | 61.º       | -               |              |
@@ -193,12 +205,23 @@ Por fim, salienta-se que não é necessário que a decisão tenha sido já objet
 | 71.º       | 26.º            | feito        |
 | 72.º       | -               | feito        |
 | 73.º       | 49.º            |              |
-| 74.º/1     | 50.º            |              |
-| 74.º/2     | -               |              |
+| 74.º/1     | 50.º            | feito        |
+| 74.º/2     | -               | feito        |
 | 75.º       | 51.º            |              |
 
 * Footnotes
-[fn:47] Apesar de o artigo 38.º se referir expressamente apenas às decisões, entende-se que, em matéria matrimonial, se tem de atender também aos casos de "desjudicialização", isto é, as situações em que, por exemplo, é decretado o divórcio através de um notário, sem que este possa ser considerado um tribunal e, como tal, sem que haja uma decisão, tal como definida no artigo 2.º, n.º 1, do Regulamento Bruxelas II /ter/. Não o fazer conduziria a resultados absurdos: imagine-se que se pretende reconhecer em França uma decisão de separação judicial proferida em Portugal. Sucede, porém, que o divórcio já tinha sido decretado em França, perante um notário. Se dermos primazia ao elemento literal, a decisão de separação judicial portuguesa deve ser reconhecida em França, pois não há /decisão/ (mais sim um ato autêntico) com ela incompatível, apesar de o casamento já se encontrar dissolvido naquele País. Neste sentido aponta igualmente o artigo 68.º do Regulamento Bruxelas II /ter/ onde não se verifica correspondente omissão. De qualquer modo, e apenas por conveniência e facilidade de exposição, expor-se-á a matéria tendo por referência a incompatibilidade de decisões.
+
+[fn:52] Cf. artigo 75.º, aplicável por remissão dos artigos 30.º, n.º 3, e 40.º, n.º 1, todos do Regulamento Bruxelas II /ter/.
+
+[fn:51] Cf. artigo 74.º, n.º 1, do Regulamento Bruxelas II /ter/. O n.º 2 deste artigo estende este benefício aos casos em que o requerente tenha beneficiado de um processo gratuito perante uma autoridade administrativa.
+
+[fn:50] Sobre estes, cf. a secção seguinte.
+
+[fn:49] Cf. artigos 30.º, n.º 4, e 40.º, n.º 2, do Regulamento Bruxelas II /ter/.
+
+[fn:48] Cf. artigo 103.º, n.º 1, alínea /c)/, do Regulamento Bruxelas II /ter/.
+
+[fn:47] Neste sentido aponta o artigo 68.º do Regulamento Bruxelas II /ter/ onde não se verifica correspondente omissão e, sobretudo, o considerando n.º 70 "Os atos autênticos e os acordos entre as partes em matéria de separação e divórcio que tenham efeito jurídico vinculativo num Estado-Membro são equiparados a «decisões» para efeitos de aplicação das normas em matéria de reconhecimento".
 
 [fn:46] Itálicos aditados.
 
@@ -268,7 +291,7 @@ Por fim, salienta-se que não é necessário que a decisão tenha sido já objet
 
 [fn:13] Doravante designada abreviadamente, por razões de facilidade de leitura, de ação de reconhecimento. Verdadeiramente, não há uma ação de reconhecimento, pois o reconhecimento é automático, faltando assim o requisito do interesse em agir. Porém, pode haver interesse, nos casos em que se verifique uma situação de incerteza, em intentar ação de mera apreciação negativa que declare não se verificar nenhum dos fundamentos de recusa do reconhecimento de decisões em matéria matrimonial, previstos no artigo 38.º do Regulamento Bruxelas II /ter/ (*citar MTS 2022*).
 
-[fn:12] Cf. artigos 36.º, n.º 2, e 45.º, n.º 4, do Regulamento Bruxelas II /bis/.
+[fn:12] Cf. artigos 36.º, n.º 2, e 45.º, n.º 4, do Regulamento Bruxelas I /bis/.
 
 [fn:11] Artigo 91.º do Código de Processo Civil (CPC).
 
