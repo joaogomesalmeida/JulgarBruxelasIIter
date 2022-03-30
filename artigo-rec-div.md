@@ -5,6 +5,14 @@ title: Reconhecimento de decisões, atos autênticos e acordos em matéria matri
 suppress-bibliography: true
 ---
 
+**Sumário:** O Regulamento Bruxelas II /ter/ reformula e substitui o Regulamento Bruxelas II /bis/ e, a partir de 1 de agosto de 2022, as suas normas serão aplicáveis. O presente artigo visa analisar as normas uniformes de reconhecimento de decisões, atos autênticos e acordos em matéria matrimonial establecidas por este Regulamento.
+
+**Summary:** Brussels II /ter/ Regulation recasts and replaces Brussels II /bis/. The new rules apply from 1 August 2022. This article aims to provide a first look into the uniform rules on the recognition of decisions, authentic instruments and agreements in matrimonial matters established by this Regulation.
+
+**Palavras-chave:** Regulamento Bruxelas II /ter/; direito do reconhecimento; matéria matrimonial; reconhecimento de decisões; reconhecimento de atos autênticos e acordos.
+
+**Keywords:** Brussels II /ter/ Regulation; recogntion; matrimonial matters; recognition of decisions; recognition of authentic instruments and agreements.
+
 # I. Introdução
 
 O presente texto visa analisar o regime de reconhecimento em matéria
