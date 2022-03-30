@@ -2,7 +2,7 @@
 #+AUTHOR: João Gomes de Almeida
 #+LANGUAGE: pt-PT
 
-* Introdução
+* I. Introdução
 
 O presente texto visa analisar o regime de reconhecimento em matéria material do Regulamento Bruxelas II /ter/[fn:74]. Este Regulamento reformula e substitui o Regulamento Bruxelas II /bis/[fn:75] e os seus regimes de reconhecimento serão aplicáveis às ações judiciais intentadas, aos atos autênticos formalmente exarados e aos acordos registados a partir de 1 de agosto de 2022.
 
@@ -10,8 +10,8 @@ Exclui-se a matéria da execução, em virtude da natureza da decisão de divór
 
 Efetua-se, primeiramente, uma análise do regime de reconhecimento de decisões em matéria matrimonial, seguido do novo regime de reconhecimento de atos autênticos e acordos e das conclusões.
 
-* Reconhecimento de decisões em matéria matrimonial
-** Conceito de decisão
+* II. Reconhecimento de decisões em matéria matrimonial
+** A) Conceito de decisão
 
 O conceito de decisão é a pedra de toque do regime de reconhecimento de decisões em matéria matrimonial e encontra-se definido como "uma decisão proferida por um tribunal de um Estado-Membro, incluindo qualquer acórdão, sentença ou despacho judicial que decreta o divórcio, a separação ou a anulação do casamento". Tata-se de um conceito /amplo/ que inclui quaisquer decisões que decretam o divórcio, a separação judicial ou a anulação do casamento, independentemente da sua designação no Estado-Membro de origem.
 
@@ -27,8 +27,8 @@ Por fim, só beneficiam do regime de reconhecimento do Regulamento Bruxelas II /
 
 Pode questionar-se se estas decisões só beneficiam do regime de reconhecimento após o trânsito em julgado. Em favor deste restrição depõe o artigo 30.º, n.º 2, do Regulamento Bruxelas II /ter/ que exige o trânsito em julgado da decisão em matéria matrimonial para efeitos de atualização dos registos do estado civil. Esta exigência compreende-se à luz da fé pública destes registos, mas não é transponível para a generalidade dos casos em que possa ser necessário o reconhecimento da decisão estrangeira. Por outro lado, e a nosso ver mais decisivo, o artigo 33.º, alínea /a)/, do Regulamento Bruxelas II /ter/ concede ao tribunal do Estado-Membro requerido a possibilidade[fn:6] de suspender a instância se a decisão estrangeira cujo reconhecimento é pretendido foi objeto de recurso ordinário no Estado-Membro de origem[O artigo 72.º do Regulamento Bruxelas II /ter/ esclarece que qualquer tipo de recurso na Irlanda e no Chipre deve ser considerado, para efeitos de reconhecimento, como sendo um recurso ordinário, permitindo assim o recurso à faculdade de suspensão da instância. Esta solução justifica-se por nesses Estados-Membros não existir a distinção entre recursos ordinários e extraordinários (cf. @magnus2012, p. 292). O conceito de recurso ordinário foi interpretado autonomamente pelo TJ, em sede da Convenção de Bruxelas, no sentido de abranger "qualquer via de recurso que faça parte do curso normal de um processo e que, enquanto tal, constitua uma fase processual com a qual qualquer das partes deva razoavelmente contar" (Acórdão de 22 de novembro de 1997, /Industrial Diamond Supplies/, 43/77, EU:C:1977:188, considerando n.º 37).]. Ora se as decisões que decretam o divórcio, a separação judicial ou a anulação do casamento suscetíveis de recurso ordinário não beneficiassem do regime de reconhecimento de decisões estrangeiras consagrado no Regulamento Bruxelas II /ter/, o preceito acima referido seria inútil.
 
-** Princípio do reconhecimento automático
-*** Considerações gerais
+** B) Princípio do reconhecimento automático
+*** 1. Considerações gerais
 
 As decisões que decretam o divórcio, a separação judicial ou a anulação do casamento, proferidas por um tribunal de um Estado-Membro, são reconhecidas nos restantes automaticamente, isto é, sem quaisquer formalidades (artigo 33.º, n.º 1, do Regulamento Bruxelas II /ter/). O princípio do reconhecimento automático encontrava-se consagrado, em termos substancialmente idênticos, nos instrumentos que o antecederam[fn:7] e fundamenta-se no princípio da confiança mútua[fn:8].
 
@@ -38,7 +38,7 @@ O princípio do reconhecimento automático produz também um efeito negativo: im
 
 Todavia não é possível afirmar que através da adoção do princípio do reconhecimento automático as decisões proferidas por tribunais de outros Estados-Membros são equivalentes às decisões proferidas por tribunais do Estado-Membro requerido. Isto porque o princípio do reconhecimento automático é adotado condicionalmente: as decisões proferidas por tribunais do Estado-Membro de origem são reconhecidas até que se verifique um dos fundamentos de não reconhecimento da decisão[Cf., neste sentido, @magnus2012, p. 258; e @corneloup2013, pp. 369-370.]
 
-*** Reconhecimento a título incidental
+*** 2. Reconhecimento a título incidental
 
 Por força da consagração do princípio do reconhecimento automático, o qual prescinde de qualquer procedimento prévio para o reconhecimento de decisões que decretem o divórcio proferidas por tribunais de outros Estados-Membros, a situação mais normal é que a questão do reconhecimento da decisão estrangeira surja, perante os tribunais, a título incidental, invocada no decurso de um determinado processo, seja como questão prévia[fn:9], seja como exceção[fn:10]. Esta invocação a título incidental é permitida pelo artigo 30.º, n.º 5, do Regulamento Bruxelas II /ter/, que estabelece: "Se o reconhecimento de uma decisão for invocado a título incidental perante um tribunal de um Estado-Membro, este é competente para o apreciar."
 
@@ -50,7 +50,7 @@ Pergunta-se a decisão se a decisão de reconhecimento ou não reconhecimento da
 
 Salienta-se, por fim, que se tiver sido apresentado um pedido de decisão que determine não haver fundamentos para recusar o reconhecimento a que se referem os artigos 38.º e 39.º (cf. artigo 30.º, n.º 3), ou um pedido de decisão que determine a recusa do reconhecimento com base num desses fundamentos (cf. artigo 40.º, n.º 1), o tribunal perante o qual o reconhecimento foi incidentalmente invocado pode suspender, total ou parcialmente, a instância[Cf. artigo 33.º, alínea /b)/, do Regulamento Bruxelas II /ter/. Trata-se de uma solução nova. Advogou-se, em sede do Regulamento Bruxelas /bis/, que o princípio da subsidiariedade apontava no sentido de que a questão deveria ser resolvida segundo o Direito vigente no Estado-Membro requerido (@almeida2017, p. 510).].
 
-*** Valor da decisão como título de registo
+*** 3. Valor da decisão como título de registo
 
 O n.º 2 do artigo 30.º do Regulamento Bruxelas II /ter/ estende o princípio do reconhecimento automático à atualização dos registos do estado civil de um Estado-Membro com base numa decisão de divórcio, separação judicial ou anulação do casamento proferida noutro Estado-Membro. Trata-se de uma consagração importante pois, em muito casos, a atualização dos registos do estado civil é um dos efeitos mais pretendidos pelos interessados no reconhecimento da decisão estrangeira que decretou o divórcio, separação judicial ou anulação do casamento[Cf. @borras1998, p. 49, ponto 63; @corneloup2013, p. 371; e @rauscher2015, p. 265.].
 
@@ -58,7 +58,7 @@ O regime delineado por este preceito apenas é aplicável às decisões de divó
 
 Apesar de o preceito não distinguir entre recursos ordinários e extraordinários, entende-se que a intenção legislativa é a de exigir o trânsito em julgado da decisão estrangeira, o mesmo é dizer, exigir que a mesma não fosse já suscetível de recurso ordinário[O preceito mantém-se substancialmente inalterado desde a Convenção de Bruxelas II. No relatório explicativo desta Convenção (@borras1998, pp. 49-50, ponto 63) afirma-se que "Deve observar-se que é necessário tratar-se de uma decisão final, ou seja, não suscetível de recurso ordinário segundo a lei do Estado de origem".].
 
-*** Pedido de declaração judicial de que não existem fundamentos de recusa do reconhecimento ou pedido de recusa de reconhecimento
+*** 4. Pedido de declaração judicial de que não existem fundamentos de recusa do reconhecimento ou pedido de recusa de reconhecimento
 
 Sem prejuízo da adoção do princípio do reconhecimento automático e da possibilidade de invocar o reconhecimento a título incidental, o artigo 30.º, n.º 3, do Regulamento Bruxelas II /bis/ estabelece que qualquer parte interessada pode, em conformidade com os procedimentos previstos nos artigos 59.º a 62.º, bem como, se for caso disso, na secção 5 do presente capítulo e no capítulo VI, requerer que seja adotada uma decisão que determine /não/ existirem os fundamentos de recusa do reconhecimento a que se referem os artigos 38.º e 39.º[Doravante designada abreviadamente, por razões de facilidade de leitura, de ação de reconhecimento. Verdadeiramente, não há uma ação de reconhecimento, pois o reconhecimento é automático, faltando assim o requisito do interesse em agir. Porém, pode haver interesse, nos casos em que se verifique uma situação de incerteza, em intentar ação de mera apreciação negativa que declare não se verificar nenhum dos fundamentos de recusa do reconhecimento de decisões em matéria matrimonial, previstos no artigo 38.º do Regulamento Bruxelas II /ter/. Cf., neste sentido, @mendes2022a, p. 336.].
 
@@ -74,7 +74,7 @@ Caso o requerente tenha beneficiado, no processo que correu termos no Estado-Mem
 
 O tribunal deve decidir sem demora[fn:54]. A decisão que profira é passível de um ou dois recursos, consoante as comunicações efetuadas por cada um dos Estados-Membros[fn:55].
 
-*** Documentos a apresentar
+*** 5. Documentos a apresentar
 
 Sempre que uma parte interessada pretenda invocar num processo judicial, a titulo principal ou incidental, uma decisão em matéria matrimonial proferida noutro Estado-Membro, cabe-lhe a ela fazer prova da existência dessa decisão. O mesmo sucede quando se pretenda atualizar os registos do estado civil de um Estado-Membro com base numa decisão de divórcio, separação ou anulação do casamento[Cf., neste sentido, @magnus2012, p. 329.]. O Regulamento Bruxelas II /ter/ define, de forma autónoma, quais são os documentos necessários para fazer prova da decisão no artigo 31.º.
 
@@ -86,8 +86,8 @@ O tribunal ou autoridade competente do Estado-Membro requerido pode, quando seja
 
 A não apresentação da cópia autenticada da decisão e ou da certidão é regulada no artigo 32.º do Regulamento Bruxelas II /ter/. A principal novidade é a possibilidade de o tribunal ou autoridade competente do Estado-Membro requerido dispensar a apresentação da cópia autenticada da decisão ou de a substituir por documentos equivalentes. Resulta do artigo 32.º do Regulamento Bruxelas II /ter/ que qualquer um dos documentos exigidos no artigo 31.º pode ser substituído ou dispensado pelo tribunal do Estado-Membro requerido. A solução, no que se refere à cópia autenticada da decisão, não parece isenta de críticas. Em caso de não apresentação de qualquer um dos documentos, o tribunal ou autoridade competente pode: /(i)/ fixar um prazo para a sua apresentação; /(ii)/ aceitar documentar equivalentes[É discutível o que se deve entender por "documentos equivalentes". @magnus2012, pp. 337-338, parece entender que se trata de documentos que não são ou não cumprem os requisitos previstos para a cópia autenticada da decisão ou certidão, mas permitem provar os mesmos factos. Este critério é de aplicação mais complexa à cópia autenticada da decisão. Será uma cópia simples da decisão um "documento equivalente"? E como poderão os factos estabelecidas pela decisão ser provados por outros documentos? Atendendo, pensa-se, a amplitude do conceito de "documentos equivalentes", o tribunal ou autoridade do Estado-Membro requerido tem também um amplo campo de descricionariedade para decidir se exige ou não a tradução ou transliteração destas documentos.]; ou /(iii)/ dispensar a sua apresentação, se se julgar suficientemente esclarecido. Se, depois de fixado prazo, os documentos exigidos continuarem sem ser apresentados e nenhuma das duas remanescentes soluções for viável, o tribunal ou autoridade competente do Estado-Membro requerido deve indeferir o pedido.
 
-** Limites ao reconhecimento
-*** Proibição do controlo de competência do tribunal de origem
+** C) Limites ao reconhecimento
+*** 1. Proibição do controlo de competência do tribunal de origem
 
 O Regulamento Bruxelas II /ter/ consagra, no artigo 68.º, a proibição do controlo de competência do tribunal de origem. O tribunal do Estado-Membro requerido não pode verificar a competência do tribunal do Estado-Membro de origem; tal significa que o desrespeito pelas normas atributivas de competência internacional e de litispendência[fn:21] consagradas no Regulamento Bruxelas II /ter/ e até a utilização de normas atributivas de competência internacional exorbitantes não constitui fundamento para a recusa de reconhecimento de uma decisão, proferida por um tribunal de um Estado-Membro, que decrete o divórcio, a separação judicial ou a anulação do casamento.
 
@@ -97,7 +97,7 @@ A proibição de controlo de competência do tribunal de origem pode também ser
 
 Não obstante, foram consagradas (contadas) exceções ao princípio da proibição do controlo de competência do tribunal de origem. Assim, resulta da definição do conceito de decisão (artigo 2.º, n.º 1) que só beneficiam do regime de reconhecimento do Regulamento as medidas provisórias e cautelares proferidas por um tribunal competente para o mérito da causa ou no contexto de uma decisão de regresso da criança; os tribunais do Estado-Membro requerido terão de aferir a competência do tribunal do Estado-Membro de origem para determinar se as medidas provisórias e cautelares por este decretadas beneficiam ou não do regime de reconhecimento. Em matéria de reconhecimento de atos autênticos e acordos em matéria matrimonial consagrou-se, como veremos /infra/, a competência indireta como pressuposto do regime de reconhecimento (artigo 64.º). Por fim, em sede de relações com outros atos, estabelece-se que as decisões em matéria matrimonial proferidas por tribunais de Estados-Membros ao abrigo da Convenção de 6 de fevereiro de 1931 entre a Dinamarca, a Finlândia, a Islândia, a Noruega e a Suécia relativa às disposições de Direito Internacional Privado em matéria de casamento, adoção e guarda de menores e o respetivo protocolo final só beneficiam do regime de reconhecimento do Regulamento se o tribunal que proferiu a decisão tivesse competência internacional para julgar a ação matrimonial nos termos das regras do Regulamento Bruxelas II /ter/ (artigo 94.º, n.º 5)[fn:18].
 
-*** Proibição de controlo do mérito da decisão objeto de reconhecimento
+*** 2. Proibição de controlo do mérito da decisão objeto de reconhecimento
 
 O Regulamento Bruxelas II /ter/ proíbe o controlo do mérito da decisão, proferida por um tribunal de um Estado-Membro, que decrete o divórcio, a separação judicial ou a anulação do casamento. O controlo do mérito por parte do tribunal do Estado-Membro de reconhecimento encontra-se vedado, seja na vertente fraca, em que se controla apenas a lei aplicada, seja na vertente forte, em que se controla também se a lei foi corretamente interpretada e aplicada[Sobre as vertentes do controlo de mérito, cf. @pinheiro2019b, p. 70.].
 
@@ -109,8 +109,8 @@ A razão de ser da (manutenção da) consagração deste preceito parece encontr
 
 Os casos em que o tribunal do Estado-Membro de origem tenha aplicado erroneamente o seu Direito de Conflitos, tenha aplicado erroneamente o Direito material ou tenha apreciado erroneamente a matéria de facto, também são abrangidos pela proibição de revisão de mérito e, como tal, não constituem motivo para recusar o reconhecimento da decisão estrangeira[fn:22].
 
-*** Fundamentos de recusa
-**** Considerações gerais
+*** 3. Fundamentos de recusa
+**** 3.1. Considerações gerais
 
 Os fundamentos que permitem ao tribunal do Estado-Membro requerido recusar o reconhecimento de uma decisão, proferida por um tribunal de outro Estado-Membro, que decrete o divórcio encontram-se elencados no artigo 38.º do Regulamento Bruxelas II /ter/. Estes fundamentos são substancialmente idênticos aos previstos no Regulamento Bruxelas II /bis/, Regulamento Bruxelas II e na Convenção de Bruxelas II e bastante próximos dos consagrados no Regulamento Bruxelas I /bis/, Regulamento Bruxelas I e na Convenção de Bruxelas.
 
@@ -124,7 +124,7 @@ Para além disso, a decisão proferida nos dois casos é, necessariamente, difer
 
 Por estes motivos, considera-se que a legitimidade do requerente não é, verdadeiramente, um fundamento de recusa do reconhecimento, tal como não o é, por exemplo, a incompetência em razão da matéria ou da hierarquia do tribunal em que foi requerido esse reconhecimento[fn:26].
 
-**** Ordem pública internacional
+**** 3.2. Ordem pública internacional
 
 Uma decisão que decrete o divórcio, proferida por um tribunal de outro Estado-Membro, pode não ser reconhecida “se o reconhecimento for manifestamente contrário à ordem pública do Estado-Membro requerido”[fn:27]. O advérbio "manifestamente" salienta o carácter excecional do recurso à ordem pública internacional. em sede do Regulamento Bruxelas II /bis/, assinala-se que, relativamente "ao reconhecimento de decisões em matéria matrimonial e de responsabilidade parental, o motivo de «ordem pública» foi raramente invocado para justificar o não reconhecimento"[@comissaoeuropeia2014, p. 11.].
 
@@ -136,7 +136,7 @@ O modo como se articula este fundamento de recusa com o artigo 70.º do Regulame
 
 A ordem pública internacional relevante é a do Estado-Membro requerido. Como tal, o conteúdo da ordem pública internacional pode ser, e em princípio será, diferente consoante o Estado-Membro em que seja pedido o reconhecimento da decisão que decrete o divórcio, a separação judicial ou a anulação do casamento. A avaliação da conformidade desse pedido de reconhecimento com a ordem pública internacional do Estado-Membro requerido constitui tarefa que só pode ser efetuada no caso concreto[Em @almeida2017, pp. 546-550, procurou-se analisar alguns exemplos de situações em que o reconhecimento de decisões que decretam o divórcio pode suscitar problemas de conformidade com a ordem pública internacional portuguesa.].
 
-**** Garantia do direito de defesa
+**** 3.3. Garantia do direito de defesa
 
 O fundamento de recusa previsto no artigo 38.º, alínea /b)/, do Regulamento Bruxelas II /ter/, visa garantir que ao cônjuge requerido é concedida a oportunidade de apresentar a sua defesa na ação de divórcio, separação judicial ou anulação do casamento. Este fudamento só é aplicável quando a decisão estrangeira que decrete o divórcio transnacional tenha sido proferida à revelia. Para ser considerado parte revel, o cônjuge requerido não pode ter apresentado qualquer defesa no processo que culminou com a decisão proferida no Estado-Membro de origem, devendo ser equiparados a esta situação os casos em que o cônjuge requerido intervém no processo apenas para declarar que não foi citado em tempo útil e de forma a poder deduzir a sua defesa[Cf., neste sentido, @corneloup2013, p. 389; @rauscher2015, p. 275.].
 
@@ -152,7 +152,7 @@ Por fim, este fundamento de recusa de reconhecimento não é aplicável nos caso
 
 Não constitui uma aceitação inequívoca da decisão por parte do cônjuge requerido, o mero facto de este não ter interposto recurso da decisão no tribunal do Estado-Membro de origem[Cf., neste sentido, @corneloup2013, p. 391; @rauscher2015, p. 277; @pinheiro2019b, p. 168; e @mendes2022a, p. 367.]. A aceitação inequívoca deve demonstrar que o cônjuge requerido aceitou a substância da decisão, isto é, o decretamento do divórcio, da separação judicial ou da anulação do casamento. Tal sucede, por exemplo, quando o cônjuge requerido contrai novo casamento[Cf. @borras1998, p. 51, ponto 70; @magnus2012, p. 273; @corneloup2013, p. 391; @pinheiro2019b, p. 168; e @mendes2022a, p. 367.], quando solicita ao ex-cônjuge uma pensão de alimentos[Cf. @corneloup2013, p. 391; @rauscher2015, p. 277; e @mendes2022a, p. 367.] ou quando efetua uma pedido de alteração do registo de estado civil[Cf. @magnus2012, p. 273.].
 
-**** Incompatibilidade com outra decisão, ato autêntico ou acordo registado
+**** 3.4. Incompatibilidade com outra decisão, ato autêntico ou acordo registado
 
 O último fundamento de recusa de reconhecimento de decisões proferidas por tribunais de outros Estados-Membros que decretem o divórcio, a separação judicial ou a anulação do casamento assenta na incompatibilidade com outra decisão, ato autêntico ou acordo registado. Apesar de o artigo 38.º se referir expressamente apenas às decisões, entende-se que, em matéria matrimonial, se tem de atender também aos casos de "desjudicialização", isto é, as situações em que, por exemplo, o divórcio se efetua perante de um notário, sem que este possa ser considerado um tribunal e, consequentemente, sem que haja uma decisão, tal como definida no artigo 2.º, n.º 1, do Regulamento Bruxelas II /ter/. Não o fazer conduziria a resultados absurdos: imagine-se que se pretende reconhecer em França uma decisão de separação judicial proferida em Portugal. Sucede, porém, que o divórcio já tinha sido decretado em França, perante um notário. Se dermos primazia ao elemento literal, a decisão de separação judicial portuguesa deve ser reconhecida em França, pois não há /decisão/ (mais sim um ato autêntico) com ela incompatível, apesar de o casamento já se encontrar dissolvido naquele País[fn:47]. De qualquer modo, e apenas por conveniência e facilidade de exposição e leitura, seguir-se-á tendo por referência a incompatibilidade de decisões.
 
@@ -169,7 +169,7 @@ As decisões proferidas noutro Estado-Membro  ou num Estado terceiro encontram-s
 
 Por fim, salienta-se que não é necessário que a decisão tenha sido já objeto de reconhecimento. O que é necessário é que a decisão proferida num Estado terceiro tenha condições de ser reconhecida no Estado-Membro requerido. Ou seja, compete ao tribunal do Estado-Membro requerido a quem foi solicitado o reconhecimento, a título principal ou incidental, da decisão proferida no Estado-Membro de origem verificar se existe alguma circunstância que impeça o reconhecimento da decisão proferida no Estado terceiro segundo a lei do foro. Caso não exista, a decisão proferida no Estado terceiro reúne as condições necessárias para o seu reconhecimento.
 
-* Reconhecimento de atos autênticos e acordos em matéria matrimonial
+* III. Reconhecimento de atos autênticos e acordos em matéria matrimonial
 
 Em matéria matrimonial, o reconhecimento de atos autênticos e acordos registados é a principal novidade do Regulamento Bruxelas II /ter/. Este novo regime de reconhecimento visa incluir no âmbito do Regulamento, respondendo assim a um fenómeno de "desjudicialização" do divórcio que ocorreu na União Europeia[@shuilleabhain2021, pp. 120-121, informa que é possível obter um divórcio extrajudicial em Bélgica, Espanha, Eslóvenia, Estónia, França, Grécia, Itália, Letónia, Portugal e Roménia. Uma breve comparação dos direitos materiais destes Estados pode encontrar-se em @lazic2021, pp. 160 e ss..].
 
@@ -187,7 +187,7 @@ Estes pressupostos são controlados pelo Estado-Membro de origem. Compete ao tri
 
 Por fim, os fundamentos de recusa são ligeiramente diferentes. Elimina-se, por razões óbvias, o fundamento de recusa assente na não citação ou notificação do ato introdutório da instância ou ato equivalente à parte revel. No mais, são idênticos, pelo que se remete para o que se disse /supra/.
 
-* Conclusão
+* IV. Conclusão
 
 Terminado este breve excurso sobre os regimes de reconhecimento do Regulamento Bruxelas II /ter/ em matéria matrimonial, é o momento de efetuar uma brevíssima apreciação. O Regulamento Bruxelas II /ter/ é, no essencial, uma instrumento de continuidade. O considerando 90 estabelece que deve ser assegurada a continuidade entre a Convenção de Bruxelas II, o Regulamento Bruxelas II, o Regulamento Bruxelas II /bis/ e o Regulamento Bruxelas II /ter/ "na medida em que as disposições se tenham mantido inalteradas". É o caso da maioria das normas de reconhecimento em matéria matrimonial, apesar de se terem efetuado algumas precisões de linguagem e adotado redações mais próximas das do Regulamento Bruxelas I /bis/. A grande inovação é o novo regime de reconhecimento de atos autênticos e acordos em matéria matrimonial. Este novo regime acolhe melhor, e de forma mais abrangente, o fenómeno de "desjudicialização" do divórcio (e da separação judicial) que tem ocorrido, nos últimos anos, em vários Estados-Membros. O regime gizado, que não deixa de ter pontos de contacto significativos com o regime de reconhecimento de decisões em matéria matrimonial, parece-nos ser um bom compromisso. Em particular concorda-se com a consagração do controlo da competência da autoridade de origem, uma vez que as autoridades que participam nestes divórcios e separações judiciais podem, nalguns casos, não estar vinculadas a aplicar as regras uniformes em matéria de competência internacional estabelecidas pelo Regulamento Bruxelas II /ter/.
 
