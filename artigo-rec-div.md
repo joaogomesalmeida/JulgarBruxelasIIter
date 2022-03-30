@@ -107,7 +107,7 @@ conceito de decisão (artigo 2.º, n.º 1, segundo e terceiro parágrafos)
 apontam no sentido de que eventuais medidas provisórias e cautelares
 decretadas em ações matrimoniais *não* beneficam do regime de
 reconhecimento do Regulamento. Sobre a questão no Regulamento Bruxelas
-II *bis*, cf. @almeida2017, p. 499 e ss. e referêcnias aí indicadas.].
+II *bis*, cf. @almeida2017, p. 499 e ss. e referências aí indicadas.].
 Em sede do Regulamento Bruxelas II *bis* uma das questões mais debatidas
 era a de saber se o regime de reconhecimento de decisões estrangeiras
 abrangia qualquer decisão proferida por um tribunal num Estado-Membro
@@ -139,7 +139,7 @@ recurso à faculdade de suspensão da instância. Esta solução justifica-se
 por nesses Estados-Membros não existir a distinção entre recursos
 ordinários e extraordinários (cf. @magnus2012, p. 292). O conceito de
 recurso ordinário foi interpretado autonomamente pelo TJ, em sede da
-Convenção de Bruxelas, no sentido de abranger \"qualquer via de recurso
+Convenção de Bruxelas de 1968 relativa à Competência Jurisdicional e à Execução de Decisões em matéria civil e comercial, publicada no JO L 299 de 31 de dezembro de 1972 (doravante Convenção de Bruxelas), no sentido de abranger \"qualquer via de recurso
 que faça parte do curso normal de um processo e que, enquanto tal,
 constitua uma fase processual com a qual qualquer das partes deva
 razoavelmente contar\" (Acórdão de 22 de novembro de 1997, *Industrial
@@ -209,8 +209,7 @@ título incidental. Duas posições surgiram, no âmbito do Regulamento
 Bruxelas II *bis*: *(i)* a tramitação é a estabelecida no Regulamento
 para a concessão de declaração de executoriedade, por força da aplicação
 analógica da remissão expressa prevista para ação de reconhecimento ou
-não reconhecimento a título principal[Cf., em sede de Regulamento
-Bruxelas I, cujas normas relevantes são substancialmente idênticas às do
+não reconhecimento a título principal[Cf., em sede do Regulamento (CE) n.º 44/2001 do Conselho, de 22 de Dezembro de 2000, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial, publicado no JO L 12 de 16 de janeiro de 2001 (doravante Regulamento Bruxelas I), cujas normas relevantes são substancialmente idênticas às do
 Regulamento Bruxelas II *bis*, @magnus2012a, p. 554-555.]; ou *(ii)* é
 subsidiariamente aplicável a tramitação prevista no Direito interno do
 Estado-Membro requerido[Cf. @baratta2008, p. 193; @corneloup2013, p.
@@ -244,7 +243,7 @@ parcialmente, a instância[Cf. artigo 33.º, alínea *b)*, do Regulamento
 Bruxelas II *ter*. Trata-se de uma solução nova. Advogou-se, em sede do
 Regulamento Bruxelas *bis*, que o princípio da subsidiariedade apontava
 no sentido de que a questão deveria ser resolvida segundo o Direito
-vigente no Estado-Membro requerido (@almeida2017, p. 510).].
+vigente no Estado-Membro requerido (cf. @almeida2017, p. 510).].
 
 ### 3. Valor da decisão como título de registo
 
@@ -310,8 +309,7 @@ artigos 59.º a 62.º, bem como, se for caso disso, na secção 5 do
 presente capítulo e no capítulo VI, são aplicáveis em conformidade aos
 pedidos de recusa de reconhecimento. Em suma, o Regulamento Bruxelas II
 *ter*, com esta alteração, aproxima-se da técnica legislativa do
-Regulamento Bruxelas I *bis*[Cf., em sentido similar,
-@forcadamiranda2020a, pp. 287-288.][^15].
+Regulamento Bruxelas I *bis*[Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial, publicado no JO L 351 de 20 de dezembro de 2012. Cf., em sentido similar, @forcadamiranda2020, pp. 287-288.] [^15].
 
 O conceito de parte interessada deve ser interpretado em sentido amplo,
 não se reconduzindo exclusivamente aos ex-cônjuges. Para que um terceiro
@@ -393,7 +391,7 @@ p. 825.]. O Regulamento *não* define quais são os requisitos de
 autenticidade da decisão. Os requisitos de autenticidade são definidos
 pelo Direito do Estado-Membro de origem[Cf., @borras1998, p. 57, ponto
 103; @magnus2012, p. 330; @corneloup2013, p. 430;
-@forcadamiranda2020a, p. 294; no âmbito do Regulamento Bruxelas I
+@forcadamiranda2020, p. 294; no âmbito do Regulamento Bruxelas I
 *bis*, @magnus2016a, p. 825; e @vouga2019, p. 83. Releva-se ainda que,
 atendendo ao artigo 90.º do Regulamento Bruxelas II *ter*, não será
 exigível a legalização ou outra formalidade análoga].
@@ -680,7 +678,7 @@ Discute-se se é possível recorrer ao fundamento da ordem pública
     sido apreciada pelo tribunal do Estado-Membro de origem; e *(ii)*
     apenas nos casos em que não é mais possível reagir contra a
     atividade fraudulenta junto dos tribunais do Estado-Membro de
-    origem[Cf., com mais detalhes, @almeida2017f, pp. 540-542.].
+    origem[Cf., com mais detalhes, @almeida2017, pp. 540-542.].
 
 O modo como se articula este fundamento de recusa com o artigo 70.º
     do Regulamento Bruxelas II *ter* também suscita dúvidas. Se este
@@ -909,7 +907,7 @@ novo regime de reconhecimento visa incluir no âmbito do Regulamento,
 respondendo assim a um fenómeno de \"desjudicialização\" do divórcio que
 ocorreu na União Europeia[@shuilleabhain2021, pp. 120-121, informa que
 é possível obter um divórcio extrajudicial em Bélgica, Espanha,
-Eslóvenia, Estónia, França, Grécia, Itália, Letónia, Portugal e Roménia.
+Eslóvenia, Estónia, França, Grécia, Itália, Letónia, Portugal e Roménia;.
 Uma breve comparação dos direitos materiais destes Estados pode
 encontrar-se em @lazic2021, pp. 160 e ss..].
 
@@ -1082,9 +1080,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
     for requerido o não reconhecimento da decisão estrangeira ou quando
     o reconhecimento da decisão for invocado a título incidental.
 
-[^10]: Cf. artigo 14.º, n.º 1, da Convenção de Bruxelas II, artigo 14.º,
-    n.º 1, do Regulamento Bruxelas II e artigo 21.º, n.º 1, do
-    Regulamento Bruxelas II *bis*.
+[^10]: Cf. artigo 14.º, n.º 1, da Convenção relativa à competência, ao reconhecimento e à execução de decisões em matéria matrimonial, publicada no JO C 221 de 16 de julho de 1998 (doravante Convenção de Bruxelas II), artigo 14.º, n.º 1, do Regulamento (CE) n.º 1347/2000 do Conselho, de 29 de Maio de 2000, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e de regulação do poder paternal em relação a filhos comuns do casal, publicado no JO L 160 de 30 de junho de 2000 (doravante Regulamento Bruxelas II) e artigo 21.º, n.º 1, do Regulamento Bruxelas II *bis*.
 
 [^11]: Cf. considerando n.º 54 do Regulamento Bruxelas II *ter*.
 
@@ -1142,7 +1138,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
 
 [^26]: Cf. artigo 31.º, n.º 1, alínea *a)*, do Regulamento Bruxelas II
     *ter*. A redação adotada teve a sua origem na Convenção de Bruxelas
-    e é hoje comum a generalidade dos instrumentos de Direito do
+    e é hoje comum à generalidade dos instrumentos de Direito do
     Reconhecimento da União Europeia.
 
 [^27]: Cf. corpo do artigo 36.º, n.º 1, do Regulamento Bruxelas II
@@ -1163,7 +1159,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
 [^31]: Itálicos aditados.
 
 [^32]: Cf. Acórdão do TJ de 16 de janeiro de 2019, *Liberato*,
-    C‑386/17,EU:C:2019:24, considerando n.º 52 e parte decisória.
+    C‑386/17, EU:C:2019:24, considerando n.º 52 e parte decisória.
 
 [^33]: Cf. considerandos n.ºs 54 e 55 do Regulamento Bruxelas II *ter*.
 
@@ -1190,13 +1186,13 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
     março de 2000, *Krombach*, C-7/98, EU:C:2000:164, considerando n.º
     36 e de 11 de maio de 2000, *Renault*, C-38/98, EU:C:2000:225,
     considerando n.º 29. Em sede de Regulamento Bruxelas II *bis*, cf.
-    Acórdão de 16 de janeiro de 2019, *Liberato*, C‑386/17,EU:C:2019:24,
+    Acórdão de 16 de janeiro de 2019, *Liberato*, C‑386/17, EU:C:2019:24,
     considerando n.º 54.
 
 [^40]: Cf. considerando n.º 55 do Regulamento Bruxelas II *ter*.
 
 [^41]: Cf. Acórdão de 16 de janeiro de 2019, *Liberato*,
-    C‑386/17,EU:C:2019:24, considerandos n.º 46 e 55.
+    C‑386/17, EU:C:2019:24, considerandos n.º 46 e 55.
 
 [^42]: Exemplificando, o tribunal português não deve reconhecer, segundo
     o regime de reconhecimento do Regulamento Bruxelas II *ter*, uma
