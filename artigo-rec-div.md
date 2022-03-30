@@ -139,7 +139,7 @@ recurso à faculdade de suspensão da instância. Esta solução justifica-se
 por nesses Estados-Membros não existir a distinção entre recursos
 ordinários e extraordinários (cf. @magnus2012, p. 292). O conceito de
 recurso ordinário foi interpretado autonomamente pelo TJ, em sede da
-Convenção de Bruxelas de 1968 relativa à Competência Jurisdicional e à Execução de Decisões em matéria civil e comercial, publicada no JO L 299 de 31 de dezembro de 1972 (doravante Convenção de Bruxelas), no sentido de abranger \"qualquer via de recurso
+Convenção de Bruxelas de 1968 relativa à Competência Jurisdicional e à Execução de Decisões em matéria civil e comercial, publicada no JO L 299, de 31 de dezembro de 1972 (doravante Convenção de Bruxelas), no sentido de abranger \"qualquer via de recurso
 que faça parte do curso normal de um processo e que, enquanto tal,
 constitua uma fase processual com a qual qualquer das partes deva
 razoavelmente contar\" (Acórdão de 22 de novembro de 1997, *Industrial
@@ -209,7 +209,7 @@ título incidental. Duas posições surgiram, no âmbito do Regulamento
 Bruxelas II *bis*: *(i)* a tramitação é a estabelecida no Regulamento
 para a concessão de declaração de executoriedade, por força da aplicação
 analógica da remissão expressa prevista para ação de reconhecimento ou
-não reconhecimento a título principal[Cf., em sede do Regulamento (CE) n.º 44/2001 do Conselho, de 22 de Dezembro de 2000, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial, publicado no JO L 12 de 16 de janeiro de 2001 (doravante Regulamento Bruxelas I), cujas normas relevantes são substancialmente idênticas às do
+não reconhecimento a título principal[Cf., em sede do Regulamento (CE) n.º 44/2001 do Conselho, de 22 de Dezembro de 2000, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial, publicado no JO L 12, de 16 de janeiro de 2001 (doravante Regulamento Bruxelas I), cujas normas relevantes são substancialmente idênticas às do
 Regulamento Bruxelas II *bis*, @magnus2012a, p. 554-555.]; ou *(ii)* é
 subsidiariamente aplicável a tramitação prevista no Direito interno do
 Estado-Membro requerido[Cf. @baratta2008, p. 193; @corneloup2013, p.
@@ -309,7 +309,7 @@ artigos 59.º a 62.º, bem como, se for caso disso, na secção 5 do
 presente capítulo e no capítulo VI, são aplicáveis em conformidade aos
 pedidos de recusa de reconhecimento. Em suma, o Regulamento Bruxelas II
 *ter*, com esta alteração, aproxima-se da técnica legislativa do
-Regulamento Bruxelas I *bis*[Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial, publicado no JO L 351 de 20 de dezembro de 2012. Cf., em sentido similar, @forcadamiranda2020, pp. 287-288.] [^15].
+Regulamento Bruxelas I *bis*[Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial, publicado no JO L 351, de 20 de dezembro de 2012. Cf., em sentido similar, @forcadamiranda2020, pp. 287-288.] [^15].
 
 O conceito de parte interessada deve ser interpretado em sentido amplo,
 não se reconduzindo exclusivamente aos ex-cônjuges. Para que um terceiro
@@ -1080,7 +1080,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
     for requerido o não reconhecimento da decisão estrangeira ou quando
     o reconhecimento da decisão for invocado a título incidental.
 
-[^10]: Cf. artigo 14.º, n.º 1, da Convenção relativa à competência, ao reconhecimento e à execução de decisões em matéria matrimonial, publicada no JO C 221 de 16 de julho de 1998 (doravante Convenção de Bruxelas II), artigo 14.º, n.º 1, do Regulamento (CE) n.º 1347/2000 do Conselho, de 29 de Maio de 2000, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e de regulação do poder paternal em relação a filhos comuns do casal, publicado no JO L 160 de 30 de junho de 2000 (doravante Regulamento Bruxelas II) e artigo 21.º, n.º 1, do Regulamento Bruxelas II *bis*.
+[^10]: Cf. artigo 14.º, n.º 1, da Convenção relativa à competência, ao reconhecimento e à execução de decisões em matéria matrimonial, publicada no JO C 221, de 16 de julho de 1998 (doravante Convenção de Bruxelas II), artigo 14.º, n.º 1, do Regulamento (CE) n.º 1347/2000 do Conselho, de 29 de Maio de 2000, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e de regulação do poder paternal em relação a filhos comuns do casal, publicado no JO L 160, de 30 de junho de 2000 (doravante Regulamento Bruxelas II) e artigo 21.º, n.º 1, do Regulamento Bruxelas II *bis*.
 
 [^11]: Cf. considerando n.º 54 do Regulamento Bruxelas II *ter*.
 
@@ -1240,12 +1240,12 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
     novembro de 2007, relativo à citação e à notificação dos atos
     judiciais e extrajudiciais em matérias civil e comercial nos
     Estados-Membros (citação e notificação de atos), publicado no JO L
-    324 de 10 de dezembro de 2007, ou pelo artigo 12.º do Regulamento
+    324, de 10 de dezembro de 2007, ou pelo artigo 12.º do Regulamento
     (UE) 2020/1784 do Parlamento Europeu e do Conselho de 25 de novembro
     de 2020 relativo à citação ou notificação de atos judiciais e
     extrajudiciais em matérias civil e comercial nos Estados-Membros
     (citação ou notificação de atos) (reformulação), publicado no JO L
-    405 de 2 de dezembro de 2020, aplicável a partir de 1 de julho de
+    405, de 2 de dezembro de 2020, aplicável a partir de 1 de julho de
     2022.
 
 [^51]: Neste sentido aponta o artigo 68.º do Regulamento Bruxelas II
@@ -1276,7 +1276,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
 
 [^58]: Regulamento (UE) n.º 1259/2010 do Conselho, de 20 de Dezembro de
     2010, que cria uma cooperação reforçada no domínio da lei aplicável
-    em matéria de divórcio e separação judicial, publicado no JO L 343
+    em matéria de divórcio e separação judicial, publicado no JO L 343,
     de 29 de dezembro de 2010.
 
 [^59]: Acórdão de 20 de dezembro de 2017, *Sahyouni*, C-372/16,
