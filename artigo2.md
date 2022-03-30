@@ -4,6 +4,14 @@ title: Âmbito de aplicação, definições e relações com outros atos do Regu
 suppress-bibliography: true
 ---
 
+**Sumário:** O Regulamento Bruxelas II /ter/ reformula e substitui o Regulamento Bruxelas II /bis/ e, a partir de 1 de agosto de 2022, as suas normas serão aplicáveis. O presente artigo analisa o seu âmbito de aplicação, definições e relações com outros atos.
+
+**Summary:** Brussels II /ter/ Regulation recasts and replaces Brussels II /bis/. The new rules apply from 1 August 2022. This article aims to provide a first look into its scope, definitions and its relations with other acts.
+
+**Palavras-chave:** Regulamento Bruxelas II /ter/; matéria matrimonial e responsabilidade parental; âmbito de aplicação; definições; relações com outros atos;.
+
+**Keywords:** Brussels II /ter/ Regulation; matrimonial matters and parental responsability matters; scope; definitions; relations with other acts.
+
 # I. Introdução
 
 A generalidade das normas do Regulamento Bruxelas II *ter*[^1] serão
