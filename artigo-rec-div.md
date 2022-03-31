@@ -5,18 +5,18 @@ title: Reconhecimento de decisões, atos autênticos e acordos em matéria matri
 suppress-bibliography: true
 ---
 
-**Sumário:** O Regulamento Bruxelas II /ter/ reformula e substitui o Regulamento Bruxelas II /bis/ e, a partir de 1 de agosto de 2022, as suas normas serão aplicáveis. O presente artigo visa analisar as normas uniformes de reconhecimento de decisões, atos autênticos e acordos em matéria matrimonial establecidas por este Regulamento.
+**Sumário:** O Regulamento Bruxelas II *ter* reformula e substitui o Regulamento Bruxelas II *bis* e, a partir de 1 de agosto de 2022, as suas normas serão aplicáveis. O presente artigo visa analisar as normas uniformes de reconhecimento de decisões, atos autênticos e acordos em matéria matrimonial establecidas por este Regulamento.
 
-**Summary:** Brussels II /ter/ Regulation recasts and replaces Brussels II /bis/. The new rules apply from 1 August 2022. This article aims to provide a first look into the uniform rules on the recognition of decisions, authentic instruments and agreements in matrimonial matters established by this Regulation.
+**Summary:** Brussels II *ter* Regulation recasts and replaces Brussels II *bis*. The new rules apply from 1 August 2022. This article aims to provide a first look into the uniform rules on the recognition of decisions, authentic instruments and agreements in matrimonial matters established by this Regulation.
 
-**Palavras-chave:** Regulamento Bruxelas II /ter/; direito do reconhecimento; matéria matrimonial; reconhecimento de decisões; reconhecimento de atos autênticos e acordos.
+**Palavras-chave:** Regulamento Bruxelas II *ter*; direito do reconhecimento; matéria matrimonial; reconhecimento de decisões; reconhecimento de atos autênticos e acordos.
 
-**Keywords:** Brussels II /ter/ Regulation; recogntion; matrimonial matters; recognition of decisions; recognition of authentic instruments and agreements.
+**Keywords:** Brussels II *ter* Regulation; recogntion; matrimonial matters; recognition of decisions; recognition of authentic instruments and agreements.
 
 # I. Introdução
 
 O presente texto visa analisar o regime de reconhecimento em matéria
-material do Regulamento Bruxelas II *ter*[^1]. Este Regulamento
+matrimonial do Regulamento Bruxelas II *ter*[^1]. Este Regulamento
 reformula e substitui o Regulamento Bruxelas II *bis*[^2] e os seus
 regimes de reconhecimento serão aplicáveis às ações judiciais
 intentadas, aos atos autênticos formalmente exarados e aos acordos
@@ -30,7 +30,7 @@ suscetível de execução, uma vez que não é necessária uma conduta, por
 ação ou omissão, do réu para que a decisão produza os seus efeitos[^3].
 
 Efetua-se, primeiramente, uma análise do regime de reconhecimento de
-decisões em matéria matrimonial, seguido do novo regime de
+decisões em matéria matrimonial, seguida do novo regime de
 reconhecimento de atos autênticos e acordos e das conclusões.
 
 # II. Reconhecimento de decisões em matéria matrimonial
@@ -60,8 +60,8 @@ portuguesa, o Acórdão do Tribunal da Relação de Coimbra de 15 de março
 de 2008, proc. 225-C/1998.C1.].
 
 A decisão tem de ser proferida por *um tribunal* de *um Estado-Membro*.
-O Regulamento Bruxelas II *ter* mantêm um conceito *amplo* de tribunal,
-que abrange autoridade *não jurisdicionais* como autoridades
+O Regulamento Bruxelas II *ter* mantém um conceito *amplo* de tribunal,
+que abrange autoridades *não jurisdicionais* como autoridades
 administrativas ou, como sucede nalguns Estados-Membros, os notários.
 Decisivo é que essas autoridades *não jurisdicionais* tenham, no
 respetivo Estado-Membro, competência em matéria de ações matrimoniais ou
@@ -95,14 +95,14 @@ casamento proferidas por tribunais cuja competência internacional foi
 estabelecida ao abrigo das competências residuais consagradas no artigo
 6.º do Regulamento Bruxelas II *bis* beneficiam do regime de
 reconhecimento de decisões estrangeiras. Tal pode deduzir-se da
-proibição de controlo de competência do tribunal de origem, pois mesmo
+proibição de controlo de competência do tribunal de origem, pois, mesmo
 nos casos em que a competência internacional do tribunal se funde numa
 competência exorbitante de fonte interna, tal não é fundamento de não
 reconhecimento dessa decisão.
 
 Por fim, só beneficiam do regime de reconhecimento do Regulamento
-Bruxelas II *ter* as decisões, proferidas em ações intentadas a partir
-de 1 de agosto de 2022[^6], *que decretam o divórcio, a separação
+Bruxelas II *ter* as decisões (proferidas em ações intentadas a partir
+de 1 de agosto de 2022[^6]) *que decretam o divórcio, a separação
 judicial ou a anulação do casamento*[A inserção sistemática do artigo
 15.º, na secção II do Capítulo II, relativa à responsabilidade parental,
 e o seu conteúdo mais focado na criança apontam no sentido de que o
@@ -121,7 +121,7 @@ era a de saber se o regime de reconhecimento de decisões estrangeiras
 abrangia qualquer decisão proferida por um tribunal num Estado-Membro
 relativa ao divórcio, separação judicial ou anulação do casamento ou se,
 pelo contrário, abrangia apenas as decisões proferidas por um tribunal
-num Estado-Membro que decretam o divórcio, a separação judicial ou a
+num Estado-Membro que decretavam o divórcio, a separação judicial ou a
 anulação do casamento. A nova redação[^7] aponta de forma mais clara no
 sentido (já sufragado pela maioria da doutrina no âmbito do Regulamento
 Bruxelas II *bis*) de que apenas as decisões que decretam o divórcio, a
@@ -129,7 +129,7 @@ separação ou a anulação do casamento beneficiam do regime de
 reconhecimento do Regulamento Bruxelas II *ter*[^8].
 
 Pode questionar-se se estas decisões só beneficiam do regime de
-reconhecimento após o trânsito em julgado. Em favor deste restrição
+reconhecimento após o trânsito em julgado. Em favor desta restrição
 depõe o artigo 30.º, n.º 2, do Regulamento Bruxelas II *ter* que exige o
 trânsito em julgado da decisão em matéria matrimonial para efeitos de
 atualização dos registos do estado civil. Esta exigência compreende-se à
@@ -228,7 +228,7 @@ dificilmente compatíveis com a posição que advoga uma identidade de
 tramitação com o pedido de decisão que determine não existirem os
 fundamentos de recusa do reconhecimento.
 
-Pergunta-se a decisão se a decisão de reconhecimento ou não
+Pergunta-se se a decisão se a decisão de reconhecimento ou não
 reconhecimento da decisão estrangeira, quando proferida a título
 incidental, constitui ou não caso julgado fora do processo respetivo.
 Subscreve-se o entendimento de que a questão deve ser resolvida de
@@ -249,7 +249,7 @@ fundamentos (cf. artigo 40.º, n.º 1), o tribunal perante o qual o
 reconhecimento foi incidentalmente invocado pode suspender, total ou
 parcialmente, a instância[Cf. artigo 33.º, alínea *b)*, do Regulamento
 Bruxelas II *ter*. Trata-se de uma solução nova. Advogou-se, em sede do
-Regulamento Bruxelas *bis*, que o princípio da subsidiariedade apontava
+Regulamento Bruxelas II *bis*, que o princípio da subsidiariedade apontava
 no sentido de que a questão deveria ser resolvida segundo o Direito
 vigente no Estado-Membro requerido (cf. @almeida2017, p. 510).].
 
@@ -271,17 +271,17 @@ divórcio, separação ou anulação do casamento, proferidas noutro
 Estado-Membro e das quais já não caiba recurso, segundo a legislação
 desse Estado-Membro. Esta solução justifica-se à luz da fé pública dos
 registos do estado civil. Mal se compreenderia que uma decisão que se
-encontra ou pode ainda ser impugnada pudesse justificar uma alteração
+encontra (ou pode ainda ser) impugnada pudesse justificar uma alteração
 dos registos do estado civil, pela situação de incerteza que tal
 acarretaria[Cf., neste sentido, @helms2001, p. 260; @schack2002, p.
 51; @corneloup2013, p. 370; e @rauscher2015, p. 266.].
 
 Apesar de o preceito não distinguir entre recursos ordinários e
 extraordinários, entende-se que a intenção legislativa é a de exigir o
-trânsito em julgado da decisão estrangeira, o mesmo é dizer, exigir que
-a mesma não fosse já suscetível de recurso ordinário[O preceito
+trânsito em julgado da decisão estrangeira, isto é, exigir que
+a mesma não seja já suscetível de recurso ordinário[O preceito
 mantém-se substancialmente inalterado desde a Convenção de Bruxelas II.
-No relatório explicativo desta Convenção (@borras1998, pp. 49-50, ponto
+No relatório explicativo desta Convenção (cf. @borras1998, pp. 49-50, ponto
 63) afirma-se que \"Deve observar-se que é necessário tratar-se de uma
 decisão final, ou seja, não suscetível de recurso ordinário segundo a
 lei do Estado de origem\".].
@@ -380,8 +380,8 @@ cada um dos Estados-Membros[^25].
 ### 5. Documentos a apresentar
 
 Sempre que uma parte interessada pretenda invocar num processo judicial,
-a titulo principal ou incidental, uma decisão em matéria matrimonial
-proferida noutro Estado-Membro, cabe-lhe a ela fazer prova da existência
+a título principal ou incidental, uma decisão em matéria matrimonial
+proferida noutro Estado-Membro, cabe-lhe fazer prova da existência
 dessa decisão. O mesmo sucede quando se pretenda atualizar os registos
 do estado civil de um Estado-Membro com base numa decisão de divórcio,
 separação ou anulação do casamento[Cf., neste sentido, @magnus2012, p.
@@ -407,7 +407,7 @@ exigível a legalização ou outra formalidade análoga].
 O segundo documento é a certidão, conforme o formulário que constitui o
 Anexo II do Regulamento Bruxelas I *ter*. É competente para emitir a
 certidão o tribunal do Estado-Membro de origem. O tribunal tem a
-obrigação de emitir a certidão, sempre que uma parte o requeira[^27]. A
+obrigação de emitir a certidão, sempre que uma parte a requeira[^27]. A
 emissão da certidão não é suscetível de impugnação[^28], com exceção dos
 casos em que, devido a erro material ou omissão, exista discrepância
 entre a decisão e a certidão. Nestes casos, o tribunal do Estado-Membro
@@ -423,12 +423,12 @@ nessa língua ou em português (língua da decisão).
 
 O tribunal ou autoridade competente do Estado-Membro requerido pode,
 quando seja necessário, requerer uma tradução ou transliteração[^30] dos
-campos de texto livre da certidão e da decisão. O objetivo parece ser o
+campos de texto livre da certidão e da decisão. O objetivo parece ser o de
 reduzir custos e entraves à \"circulação\" da decisão. A tradução ou
 transliteração dos campos de texto livre da certidão só pode ser exigida
 \"se necessário\". Parece assim, que o tribunal do Estado-Membro
 requerido só pode exigir a tradução ou transliteração quando, após exame
-da certidão, subsistam dúvidas sobre o conteúdo dos campos de texto de
+da certidão, subsistam dúvidas sobre o conteúdo dos campos de texto
 livre[Cf., no mesmo sentido e em sede do Regulamento Bruxelas I *bis*,
 @magnus2016a, p. 828.]. Quanto à tradução ou transliteração da
 decisão, a expressão \"*para além* da tradução ou transliteração do
@@ -453,18 +453,18 @@ pelo tribunal do Estado-Membro requerido. A solução, no que se refere à
 cópia autenticada da decisão, não parece isenta de críticas. Em caso de
 não apresentação de qualquer um dos documentos, o tribunal ou autoridade
 competente pode: *(i)* fixar um prazo para a sua apresentação; *(ii)*
-aceitar documentar equivalentes[É discutível o que se deve entender por
+aceitar documentos equivalentes[É discutível o que se deve entender por
 \"documentos equivalentes\". @magnus2012, pp. 337-338, parece entender
 que se trata de documentos que não são ou não cumprem os requisitos
 previstos para a cópia autenticada da decisão ou certidão, mas permitem
 provar os mesmos factos. Este critério é de aplicação mais complexa à
 cópia autenticada da decisão. Será uma cópia simples da decisão um
 \"documento equivalente\"? E como poderão os factos estabelecidas pela
-decisão ser provados por outros documentos? Atendendo, pensa-se, a
+decisão ser provados por outros documentos? Atendendo, pensa-se, à
 amplitude do conceito de \"documentos equivalentes\", o tribunal ou
 autoridade do Estado-Membro requerido tem também um amplo campo de
 descricionariedade para decidir se exige ou não a tradução ou
-transliteração destas documentos.]; ou *(iii)* dispensar a sua
+transliteração destes documentos.]; ou *(iii)* dispensar a sua
 apresentação, se se julgar suficientemente esclarecido. Se, depois de
 fixado prazo, os documentos exigidos continuarem sem ser apresentados e
 nenhuma das duas remanescentes soluções for viável, o tribunal ou
@@ -488,13 +488,13 @@ separação judicial ou a anulação do casamento.
 
 O principal fundamento apresentado para a consagração da proibição do
 controlo de competência do Estado-Membro de origem é o princípio da
-confiança mútua[^33],o qual é reforçado pela unificação, em larga
+confiança mútua[^33], o qual é reforçado pela unificação, em larga
 medida, das normas atributivas de competência internacional. Esta
 uniformização facilita o abandono do controlo da competência do tribunal
 de origem, uma vez que os tribunais dos Estados-Membros determinam se
 são ou não competentes para um divórcio transnacional através da
 aplicação das mesmas normas de competência internacional. Apesar de a
-unificação não ser exaustiva[^34], considera-se os objetivos do
+unificação não ser exaustiva[^34], considera-se que os objetivos do
 Regulamento e o carácter verdadeiramente residual da remissão para as
 restantes normas vigentes no Direito de cada Estado-Membro permitem
 justificar esta solução de proibição do controlo de competência do
@@ -512,7 +512,7 @@ controlo da competência do tribunal de origem pode ser entendida e
 justificada como a concretização desta opção em sede de reconhecimento
 de decisões estrangeiras[^35].
 
-Não obstante, foram consagradas (contadas) exceções ao princípio da
+Não obstante, foram consagradas exceções ao princípio da
 proibição do controlo de competência do tribunal de origem. Assim,
 resulta da definição do conceito de decisão (artigo 2.º, n.º 1) que só
 beneficiam do regime de reconhecimento do Regulamento as medidas
@@ -531,7 +531,7 @@ tribunais de Estados-Membros ao abrigo da Convenção de 6 de fevereiro de
 relativa às disposições de Direito Internacional Privado em matéria de
 casamento, adoção e guarda de menores e o respetivo protocolo final só
 beneficiam do regime de reconhecimento do Regulamento se o tribunal que
-proferiu a decisão tivesse competência internacional para julgar a ação
+proferiu a decisão fosse internacionalmente competente para julgar a ação
 matrimonial nos termos das regras do Regulamento Bruxelas II *ter*
 (artigo 94.º, n.º 5)[^36].
 
@@ -654,7 +654,7 @@ Uma decisão que decrete o divórcio, proferida por um tribunal de
     outro Estado-Membro, pode não ser reconhecida "se o reconhecimento
     for manifestamente contrário à ordem pública do Estado-Membro
     requerido"[^44]. O advérbio \"manifestamente\" salienta o carácter
-    excecional do recurso à ordem pública internacional. em sede do
+    excecional do recurso à ordem pública internacional. Em sede do
     Regulamento Bruxelas II *bis*, assinala-se que, relativamente \"ao
     reconhecimento de decisões em matéria matrimonial e de
     responsabilidade parental, o motivo de «ordem pública» foi raramente
@@ -764,7 +764,7 @@ Relativamente à primeira condição pode questionar-se: *(i)* a partir
     duração relevante para uma citação ter sido efetuada em tempo útil.
     Em regra, o tribunal do Estado-Membro requerido deve considerar que
     a contagem do tempo se inicia na data em que o ato introdutório da
-    instância ou ato equivalente lhe foi citado[^47]. A duração é
+    instância ou o ato equivalente lhe foi citado[^47]. A duração é
     aferida tendo em conta o momento inicial e o momento em que, segundo
     o Direito do Estado-Membro de origem, o cônjuge requerido deixa de
     poder apresentar a sua defesa no processo[^48]. Saber se esta
@@ -860,7 +860,7 @@ A exigência de identidade de partes, consagrada expressamente na
 Há incompatibilidade entre as duas decisões quando as mesmas forem
     irreconciliáveis entre si, isto é, quando produzam efeitos jurídicos
     que se excluem reciprocamente[^55]. Esta análise deve ser efetuada
-    do perspetiva do Estado-Membro requerido. Assim, por exemplo, uma
+    da perspetiva do Estado-Membro requerido. Assim, por exemplo, uma
     decisão proferida por um tribunal do Estado-Membro requerido que
     decrete a separação judicial não é incompatível com uma decisão
     proferida pelo Estado-Membro de origem que decrete o divórcio, uma
@@ -910,10 +910,7 @@ Por fim, salienta-se que não é necessário que a decisão tenha sido
 # III. Reconhecimento de atos autênticos e acordos em matéria matrimonial
 
 Em matéria matrimonial, o reconhecimento de atos autênticos e acordos
-registados é a principal novidade do Regulamento Bruxelas II *ter*. Este
-novo regime de reconhecimento visa incluir no âmbito do Regulamento,
-respondendo assim a um fenómeno de \"desjudicialização\" do divórcio que
-ocorreu na União Europeia[@shuilleabhain2021, pp. 120-121, informa que
+registados é a principal novidade do Regulamento Bruxelas II *ter*. Este novo regime de reconhecimento do Regulamento visa enquadrar o fenómeno de “desjudicialização” do divórcio que ocorreu na União Europeia[@shuilleabhain2021, pp. 120-121, informa que
 é possível obter um divórcio extrajudicial em Bélgica, Espanha,
 Eslóvenia, Estónia, França, Grécia, Itália, Letónia, Portugal e Roménia;.
 Uma breve comparação dos direitos materiais destes Estados pode
@@ -956,7 +953,7 @@ decisões e atos autênticos não será fácil.]?
 
 Este novo regime segue de perto o regime de reconhecimento das decisões,
 como se deduz da remissão para os artigos 30.º a 41.º, em tudo o que não
-for diversamente estabelecido nos artigo 64.º a 68.º[^60]. Não obstante
+for diversamente estabelecido nos artigos 64.º a 68.º[^60]. Não obstante
 introduz dois novos pressupostos de reconhecimento, a saber: *(i)* o ato
 autêntico foi exarado ou o acordo foi registado num Estado cujos
 tribunais teriam competência internacional nos termos do capítulo II
@@ -974,22 +971,21 @@ reconhecimento.].
 O primeiro pressuposto redunda no controlo da competência da autoridade
 de origem. Não sendo órgãos jurisdicionais, podem estas autoridades
 considerar que não estão vinculadas às normas atributivas de competência
-internacional do Regulamento Bruxelas II *ter*. Deste modo, e ao abrigo
-do princípio da livre escolha de notário, poderia o notário francês
+internacional do Regulamento Bruxelas II *ter*. Deste modo, e por exemplo, o notário francês poderia, ao abrigo do princípio da livre escolha de notário, 
 decretar o divórcio de dois cônjuges nacionais portugueses, com
-residência habitual na Alemanha quando, segundo o Regulamento, os
+residência habitual na Alemanha, quando, segundo o Regulamento, os
 tribunais franceses seriam internacionalmente incompetentes. Para
 evitar, pensa-se, este *forum shopping* da autoridade não jurisdicional,
 o Regulamento Bruxelas II *ter* estabelece como pressuposto que os atos
 autênticos e os acordos registados em matéria de divórcio e separação
-judicial só beneficiam do regime de reconhecimento nos casos em que o
-tenham sido exarados ou registado num Estado-Membros cujos tribunais
+judicial só beneficiam do regime de reconhecimento nos casos em que
+tenham sido exarados ou registados num Estado-Membro cujos tribunais
 seriam internacionalmente competentes para decretar esse mesmo divórcio
 ou separação judicial. Concorda-se com esta solução pois entende-se,
 como se referiu *supra*, que a proibição do controlo da competência do
 tribunal ou autoridade de origem se justifica à luz do princípio da
 confiança mútua num contexto de uniformização das normas de competência
-internacional, especialmente atendendo que não é admitida a celebração
+internacional, especialmente atendendo a que não é admitida a celebração
 de pactos de jurisdição[Cf., discordando da solução adotada,
 @shuilleabhain2021, p. 122.].
 
@@ -1001,7 +997,7 @@ Estes pressupostos são controlados pelo Estado-Membro de origem. Compete
 ao tribunal ou autoridade competente emitir uma certidão para o ato
 autêntico ou acordo, mas essa certidão só deve ser emitida depois de
 verificado que *(i)* os tribunais do Estado-Membro de origem seriam
-internacionalmente competentes para decretar o divórcio ou separação
+internacionalmente competentes para decretar o divórcio ou a separação
 judicial nos termos dos artigos 3.º a 6.º do Regulamento Bruxelas II
 *ter*; e *(ii)* o ato autêntico ou acordo registado é apto a produzir o
 efeito jurídico de dissolução ou enfraquecimento do casamento, segundo o
@@ -1021,7 +1017,7 @@ para o que se disse *supra*.
 Terminado este breve excurso sobre os regimes de reconhecimento do
 Regulamento Bruxelas II *ter* em matéria matrimonial, é o momento de
 efetuar uma brevíssima apreciação. O Regulamento Bruxelas II *ter* é, no
-essencial, uma instrumento de continuidade. O considerando 90 estabelece
+essencial, uma instrumento de continuidade. O considerando n.º 90 estabelece
 que deve ser assegurada a continuidade entre a Convenção de Bruxelas II,
 o Regulamento Bruxelas II, o Regulamento Bruxelas II *bis* e o
 Regulamento Bruxelas II *ter* \"na medida em que as disposições se
@@ -1093,7 +1089,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
 [^11]: Cf. considerando n.º 54 do Regulamento Bruxelas II *ter*.
 
 [^12]: Pense-se, por exemplo, na situação em que um ex-cônjuge (em
-    virtude de um decisão de divórcio proferida num outro Estado-Membro)
+    virtude de uma decisão de divórcio proferida num outro Estado-Membro)
     se apresenta num processo de inventário a correr termos em Portugal,
     alegando ser herdeiro legitimário do autor da sucessão (o anterior
     cônjuge).
@@ -1118,7 +1114,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
     manifesta da ordem pública internacional é de conhecimento oficioso
     e os restantes carecem de alegação pelas partes, exceto se, do exame
     do processo ou por conhecimento derivado do exercício das suas
-    funções, o tribunal apure que se verifica um desses fundamentos de
+    funções, o tribunal apurar que se verifica um desses fundamentos de
     recusa.
 
 [^18]: Cf. artigo 103.º, n.º 1, alínea *c)*, do Regulamento Bruxelas II
@@ -1158,7 +1154,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
 [^29]: Cf. artigo 37.º do Regulamento Bruxelas II *ter*.
 
 [^30]: Recorre-se a uma transliteração quando os campos de texto livre
-    da certidão e a decisão está redigida numa língua que usa um
+    da certidão e a decisão estão redigidos numa língua que usa um
     alfabeto diferente (v.g. transliteração de certidão redigida em
     grego para português). As regras de tradução e transliteração
     encontram-se previstas no artigo 91.º do Regulamento Bruxelas II
@@ -1175,7 +1171,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
 
 [^35]: A fundamentação da proibição do controlo da competência do
     tribunal de origem com base no princípio da confiança mútua,
-    unificação (quase integral) das normas de competência internacional
+    na unificação (quase integral) das normas de competência internacional
     e no controlo da competência apenas pelos tribunais do Estado-Membro
     do foro parece ter sido perfilhada pelo TJ, em sede de Regulamento
     Bruxelas II *bis*, no Acórdão de 15 de julho de 2010, *Purrucker*,
@@ -1200,12 +1196,9 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
 [^40]: Cf. considerando n.º 55 do Regulamento Bruxelas II *ter*.
 
 [^41]: Cf. Acórdão de 16 de janeiro de 2019, *Liberato*,
-    C‑386/17, EU:C:2019:24, considerandos n.º 46 e 55.
+    C‑386/17, EU:C:2019:24, considerandos n.ºs 46 e 55.
 
-[^42]: Exemplificando, o tribunal português não deve reconhecer, segundo
-    o regime de reconhecimento do Regulamento Bruxelas II *ter*, uma
-    decisão proferida noutro Estado-Membro que declara que A. é filha de
-    B..
+[^42]: Exemplificando, o tribunal português não deve reconhecer, segundo o regime de reconhecimento do Regulamento Bruxelas II *ter*, uma decisão proferida noutro Estado-Membro que declara que A. é filha de B., pois a filiação encontra-se expressamente excluída (artigo 1.º, n.º 4, alínea /a)/) do âmbito de aplicação em razão da matéria do Regulamento Bruxelas II /ter/.
 
 [^43]: O Acórdão do Tribunal da Relação do Porto de 9 de fevereiro de
     2009, proc. 0825474, é ilustrativo desta situação. O ex-cônjuge
@@ -1215,7 +1208,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
     oficiosamente absolutamente incompetente em razão da hierarquia,
     pois a competência para o processo de declaração judicial de
     reconhecimento foi cometida aos tribunais de comarca e, em
-    consequência, absolveu à ré da instância.
+    consequência, absolveu a ré da instância.
 
 [^44]: Artigo 38.º, alínea *a)*, do Regulamento Bruxelas II *ter*.
 
@@ -1249,8 +1242,8 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
     judiciais e extrajudiciais em matérias civil e comercial nos
     Estados-Membros (citação e notificação de atos), publicado no JO L
     324, de 10 de dezembro de 2007, ou pelo artigo 12.º do Regulamento
-    (UE) 2020/1784 do Parlamento Europeu e do Conselho de 25 de novembro
-    de 2020 relativo à citação ou notificação de atos judiciais e
+    (UE) 2020/1784 do Parlamento Europeu e do Conselho, de 25 de novembro
+    de 2020, relativo à citação ou notificação de atos judiciais e
     extrajudiciais em matérias civil e comercial nos Estados-Membros
     (citação ou notificação de atos) (reformulação), publicado no JO L
     405, de 2 de dezembro de 2020, aplicável a partir de 1 de julho de
