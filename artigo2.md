@@ -944,7 +944,7 @@ respetivos Tratados celebrados com a Santa Sé[^75].
     EU:C:2012:255, considerando n.º 63 e de 27 de novembro de 2007, *C*,
     C-435/06, EU:C:2007:714, considerando n.º 30.
 
-[^24]: Convenção da Haia de 1980, sobre os Aspetos Civis do Rapto
+[^24]: Convenção da Haia de 1980 sobre os Aspetos Civis do Rapto
     Internacional de Crianças.
 
 [^25]: Com exceção da Dinamarca.

@@ -17,7 +17,7 @@
     <category citation-format="note"/>
     <category field="law"/>
     <summary>adaptação OSCOLA para Julgar</summary>
-    <updated>2022-03-31T18:10:08+00:00</updated>
+    <updated>2022-03-31T17:49:55+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale>
@@ -202,7 +202,7 @@
         <text variable="title" font-style="italic" strip-periods="true"/>
       </else-if>
       <else>
-        <text variable="title" text-case="title" quotes="true" suffix=","/>
+        <text variable="title" quotes="true" text-case="title"/>
       </else>
     </choose>
   </macro>
@@ -240,10 +240,10 @@
       <if type="legal_case article-journal article-magazine" match="any">
         <choose>
           <if variable="number authority" match="all">
-            <text macro="issued-year"/>
+            <text macro="issued-year" prefix="[" suffix="]"/>
           </if>
           <else-if variable="volume">
-            <text macro="issued-year"/>
+            <text macro="issued-year" prefix="(" suffix=")"/>
           </else-if>
           <else-if variable="container-title volume number" match="any">
             <text macro="issued-year" prefix="[" suffix="]"/>
@@ -403,7 +403,8 @@
               </group>
             </if>
           </choose>
-          <group delimiter=", ">
+          <group delimiter=" ">
+            <text variable="volume"/>
             <choose>
               <if type="legal_case">
                 <choose>
@@ -416,10 +417,9 @@
                 <text variable="container-title" font-style="italic"/>
               </else-if>
               <else>
-                <text variable="container-title" font-style="italic"/>
+                <text variable="container-title"/>
               </else>
             </choose>
-            <text variable="volume"/>
           </group>
         </group>
       </if>
@@ -606,6 +606,7 @@
                   <text macro="looseleaf-note"/>
                 </group>
                 <group delimiter=" ">
+                  <text macro="date-parenthesis"/>
                   <text macro="bill-number"/>
                   <text macro="article-case-info"/>
                   <text macro="publisher"/>
@@ -615,10 +616,10 @@
             </group>
             <group delimiter=", ">
               <group delimiter=" ">
+                <text macro="page-first"/>
                 <text macro="court"/>
                 <text macro="locator-space"/>
               </group>
-              <text macro="date-parenthesis"/>
               <text macro="locator-comma"/>
             </group>
             <text macro="URL"/>

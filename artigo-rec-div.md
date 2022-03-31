@@ -1109,8 +1109,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
     verificado um dos fundamentos de não reconhecimento da decisão
     estrangeira.
 
-[^17]: No caso português, e atendendo ao artigo 984.º do Código de
-    Processo Civil, dir-se-á que o fundamento assente na violação
+[^17]: No caso português, e atendendo ao artigo 984.º do CPC, dir-se-á que o fundamento assente na violação
     manifesta da ordem pública internacional é de conhecimento oficioso
     e os restantes carecem de alegação pelas partes, exceto se, do exame
     do processo ou por conhecimento derivado do exercício das suas
@@ -1198,7 +1197,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
 [^41]: Cf. Acórdão de 16 de janeiro de 2019, *Liberato*,
     C‑386/17, EU:C:2019:24, considerandos n.ºs 46 e 55.
 
-[^42]: Exemplificando, o tribunal português não deve reconhecer, segundo o regime de reconhecimento do Regulamento Bruxelas II *ter*, uma decisão proferida noutro Estado-Membro que declara que A. é filha de B., pois a filiação encontra-se expressamente excluída (artigo 1.º, n.º 4, alínea /a)/) do âmbito de aplicação em razão da matéria do Regulamento Bruxelas II /ter/.
+[^42]: Exemplificando, o tribunal português não deve reconhecer, segundo o regime de reconhecimento do Regulamento Bruxelas II *ter*, uma decisão proferida noutro Estado-Membro que declara que A. é filha de B., pois a filiação encontra-se expressamente excluída (artigo 1.º, n.º 4, alínea *a)*) do âmbito de aplicação em razão da matéria do Regulamento Bruxelas II *ter*.
 
 [^43]: O Acórdão do Tribunal da Relação do Porto de 9 de fevereiro de
     2009, proc. 0825474, é ilustrativo desta situação. O ex-cônjuge
@@ -1273,7 +1272,7 @@ competência internacional estabelecidas pelo Regulamento Bruxelas II
 [^56]: Convenção da Haia de 1970 sobre o Reconhecimento dos Divórcios e
     Separações de Pessoas.
 
-[^57]: Artigo 978.º e ss. do Código de Processo Civil.
+[^57]: Artigo 978.º e ss. do CPC.
 
 [^58]: Regulamento (UE) n.º 1259/2010 do Conselho, de 20 de Dezembro de
     2010, que cria uma cooperação reforçada no domínio da lei aplicável
